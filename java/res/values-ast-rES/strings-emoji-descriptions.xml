@@ -56,7 +56,9 @@
   <!-- Spoken description for Unicode code point U+231B: "⌛" HOURGLASS -->
   <string name="spoken_emoji_231B">Reló de sable</string>
   <!-- Spoken description for Unicode code point U+2328: "⌨" KEYBOARD -->
+  <string name="spoken_emoji_2328">Tecláu</string>
   <!-- Spoken description for Unicode code point U+23CF: "⏏" EJECT SYMBOL -->
+  <string name="spoken_emoji_23CF">Símbolu d\'espulsión</string>
   <!-- Spoken description for Unicode code point U+23E9: "⏩" BLACK RIGHT-POINTING DOUBLE TRIANGLE -->
   <string name="spoken_emoji_23E9">Black right-pointing double triangle</string>
   <!-- Spoken description for Unicode code point U+23EA: "⏪" BLACK LEFT-POINTING DOUBLE TRIANGLE -->
@@ -71,6 +73,7 @@
   <!-- Spoken description for Unicode code point U+23F0: "⏰" ALARM CLOCK -->
   <string name="spoken_emoji_23F0">Alarma</string>
   <!-- Spoken description for Unicode code point U+23F1: "⏱" STOPWATCH -->
+  <string name="spoken_emoji_23F1">Cronómetru</string>
   <!-- Spoken description for Unicode code point U+23F2: "⏲" TIMER CLOCK -->
   <!-- Spoken description for Unicode code point U+23F3: "⏳" HOURGLASS WITH FLOWING SAND -->
   <string name="spoken_emoji_23F3">Reló de sable</string>
@@ -100,8 +103,11 @@
   <!-- Spoken description for Unicode code point U+2601: "☁" CLOUD -->
   <string name="spoken_emoji_2601">Ñube</string>
   <!-- Spoken description for Unicode code point U+2602: "☂" UMBRELLA -->
+  <string name="spoken_emoji_2602">Paragües</string>
   <!-- Spoken description for Unicode code point U+2603: "☃" SNOWMAN -->
+  <string name="spoken_emoji_2603">Moñecu de ñeve</string>
   <!-- Spoken description for Unicode code point U+2604: "☄" COMET -->
+  <string name="spoken_emoji_2604">Cometa</string>
   <!-- Spoken description for Unicode code point U+260E: "☎" BLACK TELEPHONE -->
   <string name="spoken_emoji_260E">Teléfonu prietu</string>
   <!-- Spoken description for Unicode code point U+2611: "☑" BALLOT BOX WITH CHECK -->
@@ -111,16 +117,21 @@
   <!-- Spoken description for Unicode code point U+2615: "☕" HOT BEVERAGE -->
   <string name="spoken_emoji_2615">Bebía calecía</string>
   <!-- Spoken description for Unicode code point U+2618: "☘" SHAMROCK -->
+  <string name="spoken_emoji_2618">Trébole</string>
   <!-- Spoken description for Unicode code point U+261D: "☝" WHITE UP POINTING INDEX -->
   <string name="spoken_emoji_261D">White up pointing index</string>
   <!-- Spoken description for Unicode code point U+2620: "☠" SKULL AND CROSSBONES -->
   <!-- Spoken description for Unicode code point U+2622: "☢" RADIOACTIVE SIGN -->
   <!-- Spoken description for Unicode code point U+2623: "☣" BIOHAZARD SIGN -->
   <!-- Spoken description for Unicode code point U+2626: "☦" ORTHODOX CROSS -->
+  <string name="spoken_emoji_2626">Cruz ortodoxa</string>
   <!-- Spoken description for Unicode code point U+262A: "☪" STAR AND CRESCENT -->
   <!-- Spoken description for Unicode code point U+262E: "☮" PEACE SYMBOL -->
+  <string name="spoken_emoji_262E">Símbolu de paz</string>
   <!-- Spoken description for Unicode code point U+262F: "☯" YIN YANG -->
+  <string name="spoken_emoji_262F">Yin yang</string>
   <!-- Spoken description for Unicode code point U+2638: "☸" WHEEL OF DHARMA -->
+  <string name="spoken_emoji_2638">Ruleta de dharma</string>
   <!-- Spoken description for Unicode code point U+2639: "☹" WHITE FROWNING FACE -->
   <!-- Spoken description for Unicode code point U+263A: "☺" WHITE SMILING FACE -->
   <string name="spoken_emoji_263A">Sonrisa</string>
@@ -163,14 +174,18 @@
   <!-- Spoken description for Unicode code point U+267F: "♿" WHEELCHAIR SYMBOL -->
   <string name="spoken_emoji_267F">Wheelchair symbol</string>
   <!-- Spoken description for Unicode code point U+2692: "⚒" HAMMER AND PICK -->
+  <string name="spoken_emoji_2692">Martiellu y picu</string>
   <!-- Spoken description for Unicode code point U+2693: "⚓" ANCHOR -->
   <string name="spoken_emoji_2693">Anchor</string>
   <!-- Spoken description for Unicode code point U+2694: "⚔" CROSSED SWORDS -->
+  <string name="spoken_emoji_2694">Espades cruciaes</string>
   <!-- Spoken description for Unicode code point U+2696: "⚖" SCALES -->
   <!-- Spoken description for Unicode code point U+2697: "⚗" ALEMBIC -->
   <!-- Spoken description for Unicode code point U+2699: "⚙" GEAR -->
   <!-- Spoken description for Unicode code point U+269B: "⚛" ATOM SYMBOL -->
+  <string name="spoken_emoji_269B">Símbolu atómicu</string>
   <!-- Spoken description for Unicode code point U+269C: "⚜" FLEUR-DE-LIS -->
+  <string name="spoken_emoji_269C">Flor de Lis</string>
   <!-- Spoken description for Unicode code point U+26A0: "⚠" WARNING SIGN -->
   <string name="spoken_emoji_26A0">Warning sign</string>
   <!-- Spoken description for Unicode code point U+26A1: "⚡" HIGH VOLTAGE SIGN -->
@@ -194,13 +209,16 @@
   <string name="spoken_emoji_26CE">Ofiucus</string>
   <!-- Spoken description for Unicode code point U+26CF: "⛏" PICK -->
   <!-- Spoken description for Unicode code point U+26D1: "⛑" HELMET WITH WHITE CROSS -->
+  <string name="spoken_emoji_26D1">Cascu con cruz blanca</string>
   <!-- Spoken description for Unicode code point U+26D3: "⛓" CHAINS -->
+  <string name="spoken_emoji_26D3">Cadenes</string>
   <!-- Spoken description for Unicode code point U+26D4: "⛔" NO ENTRY -->
   <string name="spoken_emoji_26D4">No entry</string>
   <!-- Spoken description for Unicode code point U+26E9: "⛩" SHINTO SHRINE -->
   <!-- Spoken description for Unicode code point U+26EA: "⛪" CHURCH -->
   <string name="spoken_emoji_26EA">Church</string>
   <!-- Spoken description for Unicode code point U+26F0: "⛰" MOUNTAIN -->
+  <string name="spoken_emoji_26F0">Monte</string>
   <!-- Spoken description for Unicode code point U+26F1: "⛱" UMBRELLA ON GROUND -->
   <!-- Spoken description for Unicode code point U+26F2: "⛲" FOUNTAIN -->
   <string name="spoken_emoji_26F2">Fountain</string>
@@ -212,6 +230,7 @@
   <!-- Spoken description for Unicode code point U+26F7: "⛷" SKIER -->
   <!-- Spoken description for Unicode code point U+26F8: "⛸" ICE SKATE -->
   <!-- Spoken description for Unicode code point U+26F9: "⛹" PERSON WITH BALL -->
+  <string name="spoken_emoji_26F9">Persona con pelota</string>
   <!-- Spoken description for Unicode code point U+26FA: "⛺" TENT -->
   <string name="spoken_emoji_26FA">Tent</string>
   <!-- Spoken description for Unicode code point U+26FD: "⛽" FUEL PUMP -->
@@ -231,6 +250,7 @@
   <!-- Spoken description for Unicode code point U+270C: "✌" VICTORY HAND -->
   <string name="spoken_emoji_270C">Victory hand</string>
   <!-- Spoken description for Unicode code point U+270D: "✍" WRITING HAND -->
+  <string name="spoken_emoji_270D">Mano escribiendo</string>
   <!-- Spoken description for Unicode code point U+270F: "✏" PENCIL -->
   <string name="spoken_emoji_270F">Pencil</string>
   <!-- Spoken description for Unicode code point U+2712: "✒" BLACK NIB -->
@@ -240,7 +260,9 @@
   <!-- Spoken description for Unicode code point U+2716: "✖" HEAVY MULTIPLICATION X -->
   <string name="spoken_emoji_2716">Heavy multiplication x</string>
   <!-- Spoken description for Unicode code point U+271D: "✝" LATIN CROSS -->
+  <string name="spoken_emoji_271D">Cruz cristiana</string>
   <!-- Spoken description for Unicode code point U+2721: "✡" STAR OF DAVID -->
+  <string name="spoken_emoji_2721">Estrella de David</string>
   <!-- Spoken description for Unicode code point U+2728: "✨" SPARKLES -->
   <string name="spoken_emoji_2728">Sparkles</string>
   <!-- Spoken description for Unicode code point U+2733: "✳" EIGHT SPOKED ASTERISK -->
@@ -435,6 +457,7 @@
   <!-- Spoken description for Unicode code point U+1F320: "🌠" SHOOTING STAR -->
   <string name="spoken_emoji_1F320">Shooting star</string>
   <!-- Spoken description for Unicode code point U+1F321: "🌡" THERMOMETER -->
+  <string name="spoken_emoji_1F321">Termómetru</string>
   <!-- Spoken description for Unicode code point U+1F324: "🌤" WHITE SUN WITH SMALL CLOUD -->
   <!-- Spoken description for Unicode code point U+1F325: "🌥" WHITE SUN BEHIND CLOUD -->
   <!-- Spoken description for Unicode code point U+1F326: "🌦" WHITE SUN BEHIND CLOUD WITH RAIN -->
@@ -443,10 +466,13 @@
   <!-- Spoken description for Unicode code point U+1F329: "🌩" CLOUD WITH LIGHTNING -->
   <!-- Spoken description for Unicode code point U+1F32A: "🌪" CLOUD WITH TORNADO -->
   <!-- Spoken description for Unicode code point U+1F32B: "🌫" FOG -->
+  <string name="spoken_emoji_1F32B">Caín</string>
   <!-- Spoken description for Unicode code point U+1F32C: "🌬" WIND BLOWING FACE -->
   <!-- Spoken description for Unicode code point U+1F32D: "🌭" HOT DOG -->
   <!-- Spoken description for Unicode code point U+1F32E: "🌮" TACO -->
+  <string name="spoken_emoji_1F32E">Tacu</string>
   <!-- Spoken description for Unicode code point U+1F32F: "🌯" BURRITO -->
+  <string name="spoken_emoji_1F32F">Burritu</string>
   <!-- Spoken description for Unicode code point U+1F330: "🌰" CHESTNUT -->
   <string name="spoken_emoji_1F330">Chestnut</string>
   <!-- Spoken description for Unicode code point U+1F331: "🌱" SEEDLING -->
@@ -603,6 +629,7 @@
   <!-- Spoken description for Unicode code point U+1F37D: "🍽" FORK AND KNIFE WITH PLATE -->
   <!-- Spoken description for Unicode code point U+1F37E: "🍾" BOTTLE WITH POPPING CORK -->
   <!-- Spoken description for Unicode code point U+1F37F: "🍿" POPCORN -->
+  <string name="spoken_emoji_1F37F">Flaires</string>
   <!-- Spoken description for Unicode code point U+1F380: "🎀" RIBBON -->
   <string name="spoken_emoji_1F380">Ribbon</string>
   <!-- Spoken description for Unicode code point U+1F381: "🎁" WRAPPED PRESENT -->
@@ -644,8 +671,10 @@
   <!-- Spoken description for Unicode code point U+1F393: "🎓" GRADUATION CAP -->
   <string name="spoken_emoji_1F393">Graduation cap</string>
   <!-- Spoken description for Unicode code point U+1F396: "🎖" MILITARY MEDAL -->
+  <string name="spoken_emoji_1F396">Medaya militar</string>
   <!-- Spoken description for Unicode code point U+1F397: "🎗" REMINDER RIBBON -->
   <!-- Spoken description for Unicode code point U+1F399: "🎙" STUDIO MICROPHONE -->
+  <string name="spoken_emoji_1F399">Micrófonu d\'estudiu</string>
   <!-- Spoken description for Unicode code point U+1F39A: "🎚" LEVEL SLIDER -->
   <!-- Spoken description for Unicode code point U+1F39B: "🎛" CONTROL KNOBS -->
   <!-- Spoken description for Unicode code point U+1F39E: "🎞" FILM FRAMES -->
@@ -725,6 +754,7 @@
   <!-- Spoken description for Unicode code point U+1F3C4: "🏄" SURFER -->
   <string name="spoken_emoji_1F3C4">Surfer</string>
   <!-- Spoken description for Unicode code point U+1F3C5: "🏅" SPORTS MEDAL -->
+  <string name="spoken_emoji_1F3C5">Medaya deportiva</string>
   <!-- Spoken description for Unicode code point U+1F3C6: "🏆" TROPHY -->
   <string name="spoken_emoji_1F3C6">Trophy</string>
   <!-- Spoken description for Unicode code point U+1F3C7: "🏇" HORSE RACING -->
@@ -739,6 +769,7 @@
   <!-- Spoken description for Unicode code point U+1F3CC: "🏌" GOLFER -->
   <!-- Spoken description for Unicode code point U+1F3CD: "🏍" RACING MOTORCYCLE -->
   <!-- Spoken description for Unicode code point U+1F3CE: "🏎" RACING CAR -->
+  <string name="spoken_emoji_1F3CE">Coche de carreres</string>
   <!-- Spoken description for Unicode code point U+1F3CF: "🏏" CRICKET BAT AND BALL -->
   <!-- Spoken description for Unicode code point U+1F3D0: "🏐" VOLLEYBALL -->
   <!-- Spoken description for Unicode code point U+1F3D1: "🏑" FIELD HOCKEY STICK AND BALL -->
@@ -752,10 +783,15 @@
   <!-- Spoken description for Unicode code point U+1F3D9: "🏙" CITYSCAPE -->
   <!-- Spoken description for Unicode code point U+1F3DA: "🏚" DERELICT HOUSE BUILDING -->
   <!-- Spoken description for Unicode code point U+1F3DB: "🏛" CLASSICAL BUILDING -->
+  <string name="spoken_emoji_1F3DB">Construcción clásica</string>
   <!-- Spoken description for Unicode code point U+1F3DC: "🏜" DESERT -->
+  <string name="spoken_emoji_1F3DC">Ermu</string>
   <!-- Spoken description for Unicode code point U+1F3DD: "🏝" DESERT ISLAND -->
+  <string name="spoken_emoji_1F3DD">Islla erma</string>
   <!-- Spoken description for Unicode code point U+1F3DE: "🏞" NATIONAL PARK -->
+  <string name="spoken_emoji_1F3DE">Parque nacional</string>
   <!-- Spoken description for Unicode code point U+1F3DF: "🏟" STADIUM -->
+  <string name="spoken_emoji_1F3DF">Estadiu</string>
   <!-- Spoken description for Unicode code point U+1F3E0: "🏠" HOUSE BUILDING -->
   <string name="spoken_emoji_1F3E0">House building</string>
   <!-- Spoken description for Unicode code point U+1F3E1: "🏡" HOUSE WITH GARDEN -->
@@ -794,8 +830,10 @@
   <!-- Spoken description for Unicode code point U+1F3F4: "🏴" WAVING BLACK FLAG -->
   <!-- Spoken description for Unicode code point U+1F3F5: "🏵" ROSETTE -->
   <!-- Spoken description for Unicode code point U+1F3F7: "🏷" LABEL -->
+  <string name="spoken_emoji_1F3F7">Etiqueta</string>
   <!-- Spoken description for Unicode code point U+1F3F8: "🏸" BADMINTON RACQUET AND SHUTTLECOCK -->
   <!-- Spoken description for Unicode code point U+1F3F9: "🏹" BOW AND ARROW -->
+  <string name="spoken_emoji_1F3F9">Arcu y flecha</string>
   <!-- Spoken description for Unicode code point U+1F3FA: "🏺" AMPHORA -->
   <!-- Spoken description for Unicode code point U+1F3FB: "🏻" EMOJI MODIFIER FITZPATRICK TYPE-1-2 -->
   <!-- Spoken description for Unicode code point U+1F3FC: "🏼" EMOJI MODIFIER FITZPATRICK TYPE-3 -->
@@ -813,6 +851,7 @@
   <!-- Spoken description for Unicode code point U+1F404: "🐄" COW -->
   <string name="spoken_emoji_1F404">Cow</string>
   <!-- Spoken description for Unicode code point U+1F405: "🐅" TIGER -->
+  <string name="spoken_emoji_1F405">Tigre</string>
   <!-- Spoken description for Unicode code point U+1F406: "🐆" LEOPARD -->
   <string name="spoken_emoji_1F406">Leopard</string>
   <!-- Spoken description for Unicode code point U+1F407: "🐇" RABBIT -->
@@ -931,6 +970,7 @@
   <!-- Spoken description for Unicode code point U+1F440: "👀" EYES -->
   <string name="spoken_emoji_1F440">Eyes</string>
   <!-- Spoken description for Unicode code point U+1F441: "👁" EYE -->
+  <string name="spoken_emoji_1F441">Güeyu</string>
   <!-- Spoken description for Unicode code point U+1F442: "👂" EAR -->
   <string name="spoken_emoji_1F442">Ear</string>
   <!-- Spoken description for Unicode code point U+1F443: "👃" NOSE -->
@@ -1296,6 +1336,7 @@
   <!-- Spoken description for Unicode code point U+1F4F7: "📷" CAMERA -->
   <string name="spoken_emoji_1F4F7">Camera</string>
   <!-- Spoken description for Unicode code point U+1F4F8: "📸" CAMERA WITH FLASH -->
+  <string name="spoken_emoji_1F4F8">Cámara con flax</string>
   <!-- Spoken description for Unicode code point U+1F4F9: "📹" VIDEO CAMERA -->
   <string name="spoken_emoji_1F4F9">Video camera</string>
   <!-- Spoken description for Unicode code point U+1F4FA: "📺" TELEVISION -->
@@ -1305,6 +1346,7 @@
   <!-- Spoken description for Unicode code point U+1F4FC: "📼" VIDEOCASSETTE -->
   <string name="spoken_emoji_1F4FC">Videocassette</string>
   <!-- Spoken description for Unicode code point U+1F4FD: "📽" FILM PROJECTOR -->
+  <string name="spoken_emoji_1F4FD">Proyeutor</string>
   <!-- Spoken description for Unicode code point U+1F4FF: "📿" PRAYER BEADS -->
   <!-- Spoken description for Unicode code point U+1F500: "🔀" TWISTED RIGHTWARDS ARROWS -->
   <string name="spoken_emoji_1F500">Twisted rightwards arrows</string>
@@ -1431,10 +1473,12 @@
   <!-- Spoken description for Unicode code point U+1F53D: "🔽" DOWN-POINTING SMALL RED TRIANGLE -->
   <string name="spoken_emoji_1F53D">Down-pointing small red triangle</string>
   <!-- Spoken description for Unicode code point U+1F549: "🕉" OM SYMBOL -->
+  <string name="spoken_emoji_1F549">Símbolu d\'Om</string>
   <!-- Spoken description for Unicode code point U+1F54A: "🕊" DOVE OF PEACE -->
   <!-- Spoken description for Unicode code point U+1F54B: "🕋" KAABA -->
   <!-- Spoken description for Unicode code point U+1F54C: "🕌" MOSQUE -->
   <!-- Spoken description for Unicode code point U+1F54D: "🕍" SYNAGOGUE -->
+  <string name="spoken_emoji_1F54D">Sinagoga</string>
   <!-- Spoken description for Unicode code point U+1F54E: "🕎" MENORAH WITH NINE BRANCHES -->
   <!-- Spoken description for Unicode code point U+1F550: "🕐" CLOCK FACE ONE OCLOCK -->
   <string name="spoken_emoji_1F550">Clock face one oclock</string>
@@ -1490,9 +1534,13 @@
   <!-- Spoken description for Unicode code point U+1F574: "🕴" MAN IN BUSINESS SUIT LEVITATING -->
   <!-- Spoken description for Unicode code point U+1F575: "🕵" SLEUTH OR SPY -->
   <!-- Spoken description for Unicode code point U+1F576: "🕶" DARK SUNGLASSES -->
+  <string name="spoken_emoji_1F576">Gafes de sol prietes</string>
   <!-- Spoken description for Unicode code point U+1F577: "🕷" SPIDER -->
+  <string name="spoken_emoji_1F577">Araña</string>
   <!-- Spoken description for Unicode code point U+1F578: "🕸" SPIDER WEB -->
+  <string name="spoken_emoji_1F578">Telaraña</string>
   <!-- Spoken description for Unicode code point U+1F579: "🕹" JOYSTICK -->
+  <string name="spoken_emoji_1F579">Joystick</string>
   <!-- Spoken description for Unicode code point U+1F587: "🖇" LINKED PAPERCLIPS -->
   <!-- Spoken description for Unicode code point U+1F58A: "🖊" LOWER LEFT BALLPOINT PEN -->
   <!-- Spoken description for Unicode code point U+1F58B: "🖋" LOWER LEFT FOUNTAIN PEN -->
@@ -1502,10 +1550,14 @@
   <!-- Spoken description for Unicode code point U+1F595: "🖕" REVERSED HAND WITH MIDDLE FINGER EXTENDED -->
   <!-- Spoken description for Unicode code point U+1F596: "🖖" RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS -->
   <!-- Spoken description for Unicode code point U+1F5A5: "🖥" DESKTOP COMPUTER -->
+  <string name="spoken_emoji_1F5A5">Ordenador d\'escritoriu</string>
   <!-- Spoken description for Unicode code point U+1F5A8: "🖨" PRINTER -->
+  <string name="spoken_emoji_1F5A8">Imprentadora</string>
   <!-- Spoken description for Unicode code point U+1F5B1: "🖱" THREE BUTTON MOUSE -->
+  <string name="spoken_emoji_1F5B1">Mur de tres botones</string>
   <!-- Spoken description for Unicode code point U+1F5B2: "🖲" TRACKBALL -->
   <!-- Spoken description for Unicode code point U+1F5BC: "🖼" FRAME WITH PICTURE -->
+  <string name="spoken_emoji_1F5BC">Marcu con semeya</string>
   <!-- Spoken description for Unicode code point U+1F5C2: "🗂" CARD INDEX DIVIDERS -->
   <!-- Spoken description for Unicode code point U+1F5C3: "🗃" CARD FILE BOX -->
   <!-- Spoken description for Unicode code point U+1F5C4: "🗄" FILE CABINET -->
@@ -1513,13 +1565,16 @@
   <!-- Spoken description for Unicode code point U+1F5D2: "🗒" SPIRAL NOTE PAD -->
   <!-- Spoken description for Unicode code point U+1F5D3: "🗓" SPIRAL CALENDAR PAD -->
   <!-- Spoken description for Unicode code point U+1F5DC: "🗜" COMPRESSION -->
+  <string name="spoken_emoji_1F5DC">Compresión</string>
   <!-- Spoken description for Unicode code point U+1F5DD: "🗝" OLD KEY -->
+  <string name="spoken_emoji_1F5DD">Llave vieya</string>
   <!-- Spoken description for Unicode code point U+1F5DE: "🗞" ROLLED-UP NEWSPAPER -->
   <!-- Spoken description for Unicode code point U+1F5E1: "🗡" DAGGER KNIFE -->
   <!-- Spoken description for Unicode code point U+1F5E3: "🗣" SPEAKING HEAD IN SILHOUETTE -->
   <!-- Spoken description for Unicode code point U+1F5EF: "🗯" RIGHT ANGER BUBBLE -->
   <!-- Spoken description for Unicode code point U+1F5F3: "🗳" BALLOT BOX WITH BALLOT -->
   <!-- Spoken description for Unicode code point U+1F5FA: "🗺" WORLD MAP -->
+  <string name="spoken_emoji_1F5FA">Mapa mundial</string>
   <!-- Spoken description for Unicode code point U+1F5FB: "🗻" MOUNT FUJI -->
   <string name="spoken_emoji_1F5FB">Mount fuji</string>
   <!-- Spoken description for Unicode code point U+1F5FC: "🗼" TOKYO TOWER -->
@@ -1829,8 +1884,10 @@
   <!-- Spoken description for Unicode code point U+1F6CB: "🛋" COUCH AND LAMP -->
   <!-- Spoken description for Unicode code point U+1F6CC: "🛌" SLEEPING ACCOMMODATION -->
   <!-- Spoken description for Unicode code point U+1F6CD: "🛍" SHOPPING BAGS -->
+  <string name="spoken_emoji_1F6CD">Bolses de merca</string>
   <!-- Spoken description for Unicode code point U+1F6CE: "🛎" BELLHOP BELL -->
   <!-- Spoken description for Unicode code point U+1F6CF: "🛏" BED -->
+  <string name="spoken_emoji_1F6CF">Cama</string>
   <!-- Spoken description for Unicode code point U+1F6D0: "🛐" PLACE OF WORSHIP -->
   <!-- Spoken description for Unicode code point U+1F6E0: "🛠" HAMMER AND WRENCH -->
   <!-- Spoken description for Unicode code point U+1F6E1: "🛡" SHIELD -->
@@ -1838,25 +1895,32 @@
   <!-- Spoken description for Unicode code point U+1F6E3: "🛣" MOTORWAY -->
   <!-- Spoken description for Unicode code point U+1F6E4: "🛤" RAILWAY TRACK -->
   <!-- Spoken description for Unicode code point U+1F6E5: "🛥" MOTOR BOAT -->
+  <string name="spoken_emoji_1F6E5">Chalana motorizada</string>
   <!-- Spoken description for Unicode code point U+1F6E9: "🛩" SMALL AIRPLANE -->
   <!-- Spoken description for Unicode code point U+1F6EB: "🛫" AIRPLANE DEPARTURE -->
   <!-- Spoken description for Unicode code point U+1F6EC: "🛬" AIRPLANE ARRIVING -->
   <!-- Spoken description for Unicode code point U+1F6F0: "🛰" SATELLITE -->
+  <string name="spoken_emoji_1F6F0">Satélite</string>
   <!-- Spoken description for Unicode code point U+1F6F3: "🛳" PASSENGER SHIP -->
   <!-- Spoken description for Unicode code point U+1F910: "🤐" ZIPPER-MOUTH FACE -->
   <!-- Spoken description for Unicode code point U+1F911: "🤑" MONEY-MOUTH FACE -->
   <!-- Spoken description for Unicode code point U+1F912: "🤒" FACE WITH THERMOMETER -->
   <!-- Spoken description for Unicode code point U+1F913: "🤓" NERD FACE -->
   <!-- Spoken description for Unicode code point U+1F914: "🤔" THINKING FACE -->
+  <string name="spoken_emoji_1F914">Cara pensatible</string>
   <!-- Spoken description for Unicode code point U+1F915: "🤕" FACE WITH HEAD-BANDAGE -->
   <!-- Spoken description for Unicode code point U+1F916: "🤖" ROBOT FACE -->
+  <string name="spoken_emoji_1F916">Cara de robó</string>
   <!-- Spoken description for Unicode code point U+1F917: "🤗" HUGGING FACE -->
   <!-- Spoken description for Unicode code point U+1F918: "🤘" SIGN OF THE HORNS -->
   <!-- Spoken description for Unicode code point U+1F980: "🦀" CRAB -->
   <!-- Spoken description for Unicode code point U+1F981: "🦁" LION FACE -->
+  <string name="spoken_emoji_1F981">Cara de lleón</string>
   <!-- Spoken description for Unicode code point U+1F982: "🦂" SCORPION -->
+  <string name="spoken_emoji_1F982">Allacrán</string>
   <!-- Spoken description for Unicode code point U+1F983: "🦃" TURKEY -->
   <!-- Spoken description for Unicode code point U+1F984: "🦄" UNICORN FACE -->
+  <string name="spoken_emoji_1F984">Cara d\'unicorniu</string>
   <!-- Spoken description for Unicode code point U+1F9C0: "🧀" CHEESE WEDGE -->
   <!-- Spoken description for Unicode code point sequence U+0023 U+20E3: "#⃣" KEYCAP NUMBER SIGN -->
   <!-- Spoken description for Unicode code point sequence U+002A U+20E3: "*⃣" KEYCAP ASTERISK -->
@@ -1872,27 +1936,40 @@
   <!-- Spoken description for Unicode code point sequence U+0039 U+20E3: "9⃣" KEYCAP DIGIT NINE -->
   <!-- Spoken description for Unicode code point sequence U+1F1E6 U+1F1E8: "🇦🇨" FLAG FOR ASCENSION ISLAND -->
   <!-- Spoken description for Unicode code point sequence U+1F1E6 U+1F1E9: "🇦🇩" FLAG FOR ANDORRA -->
+  <string name="spoken_emoji_1F1E6_1F1E9">Bandera d\'Andorra</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E6 U+1F1EA: "🇦🇪" FLAG FOR UNITED ARAB EMIRATES -->
   <!-- Spoken description for Unicode code point sequence U+1F1E6 U+1F1EB: "🇦🇫" FLAG FOR AFGHANISTAN -->
   <!-- Spoken description for Unicode code point sequence U+1F1E6 U+1F1EC: "🇦🇬" FLAG FOR ANTIGUA & BARBUDA -->
   <!-- Spoken description for Unicode code point sequence U+1F1E6 U+1F1EE: "🇦🇮" FLAG FOR ANGUILLA -->
   <!-- Spoken description for Unicode code point sequence U+1F1E6 U+1F1F1: "🇦🇱" FLAG FOR ALBANIA -->
+  <string name="spoken_emoji_1F1E6_1F1F1">Bandera d\'Albania</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E6 U+1F1F2: "🇦🇲" FLAG FOR ARMENIA -->
+  <string name="spoken_emoji_1F1E6_1F1F2">Bandera d\'Armenia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E6 U+1F1F4: "🇦🇴" FLAG FOR ANGOLA -->
+  <string name="spoken_emoji_1F1E6_1F1F4">Bandera d\'Angola</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E6 U+1F1F6: "🇦🇶" FLAG FOR ANTARCTICA -->
+  <string name="spoken_emoji_1F1E6_1F1F6">Bandera d\'Antártida</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E6 U+1F1F7: "🇦🇷" FLAG FOR ARGENTINA -->
+  <string name="spoken_emoji_1F1E6_1F1F7">Bandera d\'Arxentina</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E6 U+1F1F8: "🇦🇸" FLAG FOR AMERICAN SAMOA -->
   <!-- Spoken description for Unicode code point sequence U+1F1E6 U+1F1F9: "🇦🇹" FLAG FOR AUSTRIA -->
+  <string name="spoken_emoji_1F1E6_1F1F9">Bandera d\'Austria</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E6 U+1F1FA: "🇦🇺" FLAG FOR AUSTRALIA -->
+  <string name="spoken_emoji_1F1E6_1F1FA">Bandera d\'Australia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E6 U+1F1FC: "🇦🇼" FLAG FOR ARUBA -->
+  <string name="spoken_emoji_1F1E6_1F1FC">Bandera d\'Aruba</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E6 U+1F1FD: "🇦🇽" FLAG FOR ÅLAND ISLANDS -->
+  <string name="spoken_emoji_1F1E6_1F1FD">Bandera d\'Islles Åland</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E6 U+1F1FF: "🇦🇿" FLAG FOR AZERBAIJAN -->
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1E6: "🇧🇦" FLAG FOR BOSNIA & HERZEGOVINA -->
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1E7: "🇧🇧" FLAG FOR BARBADOS -->
+  <string name="spoken_emoji_1F1E7_1F1E7">Bandera de Barbados</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1E9: "🇧🇩" FLAG FOR BANGLADESH -->
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1EA: "🇧🇪" FLAG FOR BELGIUM -->
+  <string name="spoken_emoji_1F1E7_1F1EA">Bandera de Bélxica</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1EB: "🇧🇫" FLAG FOR BURKINA FASO -->
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1EC: "🇧🇬" FLAG FOR BULGARIA -->
+  <string name="spoken_emoji_1F1E7_1F1EC">Bandera de Bulgaria</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1ED: "🇧🇭" FLAG FOR BAHRAIN -->
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1EE: "🇧🇮" FLAG FOR BURUNDI -->
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1EF: "🇧🇯" FLAG FOR BENIN -->
@@ -1902,33 +1979,45 @@
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1F4: "🇧🇴" FLAG FOR BOLIVIA -->
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1F6: "🇧🇶" FLAG FOR CARIBBEAN NETHERLANDS -->
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1F7: "🇧🇷" FLAG FOR BRAZIL -->
+  <string name="spoken_emoji_1F1E7_1F1F7">Bandera de Brasil</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1F8: "🇧🇸" FLAG FOR BAHAMAS -->
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1F9: "🇧🇹" FLAG FOR BHUTAN -->
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1FB: "🇧🇻" FLAG FOR BOUVET ISLAND -->
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1FC: "🇧🇼" FLAG FOR BOTSWANA -->
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1FE: "🇧🇾" FLAG FOR BELARUS -->
+  <string name="spoken_emoji_1F1E7_1F1FE">Bandera de Bielorrusia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E7 U+1F1FF: "🇧🇿" FLAG FOR BELIZE -->
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1E6: "🇨🇦" FLAG FOR CANADA -->
+  <string name="spoken_emoji_1F1E8_1F1E6">Bandera de Canadá</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1E8: "🇨🇨" FLAG FOR COCOS ISLANDS -->
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1E9: "🇨🇩" FLAG FOR CONGO - KINSHASA -->
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1EB: "🇨🇫" FLAG FOR CENTRAL AFRICAN REPUBLIC -->
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1EC: "🇨🇬" FLAG FOR CONGO - BRAZZAVILLE -->
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1ED: "🇨🇭" FLAG FOR SWITZERLAND -->
+  <string name="spoken_emoji_1F1E8_1F1ED">Bandera de Suazilandia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1EE: "🇨🇮" FLAG FOR CÔTE D'IVOIRE -->
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1F0: "🇨🇰" FLAG FOR COOK ISLANDS -->
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1F1: "🇨🇱" FLAG FOR CHILE -->
+  <string name="spoken_emoji_1F1E8_1F1F1">Bandera de Chile</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1F2: "🇨🇲" FLAG FOR CAMEROON -->
+  <string name="spoken_emoji_1F1E8_1F1F2">Bandera de Camerún</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1F3: "🇨🇳" FLAG FOR CHINA -->
+  <string name="spoken_emoji_1F1E8_1F1F3">Bandera de China</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1F4: "🇨🇴" FLAG FOR COLOMBIA -->
+  <string name="spoken_emoji_1F1E8_1F1F4">Bandera de Colombia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1F5: "🇨🇵" FLAG FOR CLIPPERTON ISLAND -->
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1F7: "🇨🇷" FLAG FOR COSTA RICA -->
+  <string name="spoken_emoji_1F1E8_1F1F7">Bandera de Costa rica</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1FA: "🇨🇺" FLAG FOR CUBA -->
+  <string name="spoken_emoji_1F1E8_1F1FA">Bandera de Cuba</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1FB: "🇨🇻" FLAG FOR CAPE VERDE -->
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1FC: "🇨🇼" FLAG FOR CURAÇAO -->
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1FD: "🇨🇽" FLAG FOR CHRISTMAS ISLAND -->
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1FE: "🇨🇾" FLAG FOR CYPRUS -->
   <!-- Spoken description for Unicode code point sequence U+1F1E8 U+1F1FF: "🇨🇿" FLAG FOR CZECH REPUBLIC -->
+  <string name="spoken_emoji_1F1E8_1F1FF">Bandera de Chequia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E9 U+1F1EA: "🇩🇪" FLAG FOR GERMANY -->
+  <string name="spoken_emoji_1F1E9_1F1EA">Bandera d\'Alemaña</string>
   <!-- Spoken description for Unicode code point sequence U+1F1E9 U+1F1EC: "🇩🇬" FLAG FOR DIEGO GARCIA -->
   <!-- Spoken description for Unicode code point sequence U+1F1E9 U+1F1EF: "🇩🇯" FLAG FOR DJIBOUTI -->
   <!-- Spoken description for Unicode code point sequence U+1F1E9 U+1F1F0: "🇩🇰" FLAG FOR DENMARK -->
@@ -1942,30 +2031,43 @@
   <!-- Spoken description for Unicode code point sequence U+1F1EA U+1F1ED: "🇪🇭" FLAG FOR WESTERN SAHARA -->
   <!-- Spoken description for Unicode code point sequence U+1F1EA U+1F1F7: "🇪🇷" FLAG FOR ERITREA -->
   <!-- Spoken description for Unicode code point sequence U+1F1EA U+1F1F8: "🇪🇸" FLAG FOR SPAIN -->
+  <string name="spoken_emoji_1F1EA_1F1F8">Bandera d\'España</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EA U+1F1F9: "🇪🇹" FLAG FOR ETHIOPIA -->
   <!-- Spoken description for Unicode code point sequence U+1F1EA U+1F1FA: "🇪🇺" FLAG FOR EUROPEAN UNION -->
+  <string name="spoken_emoji_1F1EA_1F1FA">Bandera de Xunión Europea</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EB U+1F1EE: "🇫🇮" FLAG FOR FINLAND -->
   <!-- Spoken description for Unicode code point sequence U+1F1EB U+1F1EF: "🇫🇯" FLAG FOR FIJI -->
   <!-- Spoken description for Unicode code point sequence U+1F1EB U+1F1F0: "🇫🇰" FLAG FOR FALKLAND ISLANDS -->
   <!-- Spoken description for Unicode code point sequence U+1F1EB U+1F1F2: "🇫🇲" FLAG FOR MICRONESIA -->
+  <string name="spoken_emoji_1F1EB_1F1F2">Bandera de Micronesia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EB U+1F1F4: "🇫🇴" FLAG FOR FAROE ISLANDS -->
+  <string name="spoken_emoji_1F1EB_1F1F4">Bandera d\'Islles Faroe</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EB U+1F1F7: "🇫🇷" FLAG FOR FRANCE -->
+  <string name="spoken_emoji_1F1EB_1F1F7">Bandera de Francia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1E6: "🇬🇦" FLAG FOR GABON -->
+  <string name="spoken_emoji_1F1EC_1F1E6">Bandera de Gabón</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1E7: "🇬🇧" FLAG FOR UNITED KINGDOM -->
+  <string name="spoken_emoji_1F1EC_1F1E7">Bandera de Reinu Xuníu</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1E9: "🇬🇩" FLAG FOR GRENADA -->
+  <string name="spoken_emoji_1F1EC_1F1E9">Bandera de Granada</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1EA: "🇬🇪" FLAG FOR GEORGIA -->
+  <string name="spoken_emoji_1F1EC_1F1EA">Bandera de Xeorxa</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1EB: "🇬🇫" FLAG FOR FRENCH GUIANA -->
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1EC: "🇬🇬" FLAG FOR GUERNSEY -->
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1ED: "🇬🇭" FLAG FOR GHANA -->
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1EE: "🇬🇮" FLAG FOR GIBRALTAR -->
+  <string name="spoken_emoji_1F1EC_1F1EE">Bandera de Xibraltar</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1F1: "🇬🇱" FLAG FOR GREENLAND -->
+  <string name="spoken_emoji_1F1EC_1F1F1">Bandera de Groenlandia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1F2: "🇬🇲" FLAG FOR GAMBIA -->
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1F3: "🇬🇳" FLAG FOR GUINEA -->
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1F5: "🇬🇵" FLAG FOR GUADELOUPE -->
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1F6: "🇬🇶" FLAG FOR EQUATORIAL GUINEA -->
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1F7: "🇬🇷" FLAG FOR GREECE -->
+  <string name="spoken_emoji_1F1EC_1F1F7">Bandera de Grecia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1F8: "🇬🇸" FLAG FOR SOUTH GEORGIA & SOUTH SANDWICH ISLANDS -->
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1F9: "🇬🇹" FLAG FOR GUATEMALA -->
+  <string name="spoken_emoji_1F1EC_1F1F9">Bandera de Guatemala</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1FA: "🇬🇺" FLAG FOR GUAM -->
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1FC: "🇬🇼" FLAG FOR GUINEA-BISSAU -->
   <!-- Spoken description for Unicode code point sequence U+1F1EC U+1F1FE: "🇬🇾" FLAG FOR GUYANA -->
@@ -1973,23 +2075,36 @@
   <!-- Spoken description for Unicode code point sequence U+1F1ED U+1F1F2: "🇭🇲" FLAG FOR HEARD & MCDONALD ISLANDS -->
   <!-- Spoken description for Unicode code point sequence U+1F1ED U+1F1F3: "🇭🇳" FLAG FOR HONDURAS -->
   <!-- Spoken description for Unicode code point sequence U+1F1ED U+1F1F7: "🇭🇷" FLAG FOR CROATIA -->
+  <string name="spoken_emoji_1F1ED_1F1F7">Bandera de Croacia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1ED U+1F1F9: "🇭🇹" FLAG FOR HAITI -->
   <!-- Spoken description for Unicode code point sequence U+1F1ED U+1F1FA: "🇭🇺" FLAG FOR HUNGARY -->
+  <string name="spoken_emoji_1F1ED_1F1FA">Bandera d\'Hungría</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EE U+1F1E8: "🇮🇨" FLAG FOR CANARY ISLANDS -->
+  <string name="spoken_emoji_1F1EE_1F1E8">Bandera d\'Islles canaries</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EE U+1F1E9: "🇮🇩" FLAG FOR INDONESIA -->
+  <string name="spoken_emoji_1F1EE_1F1E9">Bandera d\'Indonesia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EE U+1F1EA: "🇮🇪" FLAG FOR IRELAND -->
+  <string name="spoken_emoji_1F1EE_1F1EA">Bandera d\'Irlanda</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EE U+1F1F1: "🇮🇱" FLAG FOR ISRAEL -->
+  <string name="spoken_emoji_1F1EE_1F1F1">Bandera d\'Israel</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EE U+1F1F2: "🇮🇲" FLAG FOR ISLE OF MAN -->
+  <string name="spoken_emoji_1F1EE_1F1F2">Bandera d\'Islla de Man</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EE U+1F1F3: "🇮🇳" FLAG FOR INDIA -->
+  <string name="spoken_emoji_1F1EE_1F1F3">Bandera d\'India</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EE U+1F1F4: "🇮🇴" FLAG FOR BRITISH INDIAN OCEAN TERRITORY -->
   <!-- Spoken description for Unicode code point sequence U+1F1EE U+1F1F6: "🇮🇶" FLAG FOR IRAQ -->
   <!-- Spoken description for Unicode code point sequence U+1F1EE U+1F1F7: "🇮🇷" FLAG FOR IRAN -->
+  <string name="spoken_emoji_1F1EE_1F1F7">Bandera d\'Irán</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EE U+1F1F8: "🇮🇸" FLAG FOR ICELAND -->
+  <string name="spoken_emoji_1F1EE_1F1F8">Bandera d\'Islandia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EE U+1F1F9: "🇮🇹" FLAG FOR ITALY -->
+  <string name="spoken_emoji_1F1EE_1F1F9">Bandera d\'Italia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EF U+1F1EA: "🇯🇪" FLAG FOR JERSEY -->
   <!-- Spoken description for Unicode code point sequence U+1F1EF U+1F1F2: "🇯🇲" FLAG FOR JAMAICA -->
+  <string name="spoken_emoji_1F1EF_1F1F2">Bandera de Xamaica</string>
   <!-- Spoken description for Unicode code point sequence U+1F1EF U+1F1F4: "🇯🇴" FLAG FOR JORDAN -->
   <!-- Spoken description for Unicode code point sequence U+1F1EF U+1F1F5: "🇯🇵" FLAG FOR JAPAN -->
+  <string name="spoken_emoji_1F1EF_1F1F5">Bandera de Xapón</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F0 U+1F1EA: "🇰🇪" FLAG FOR KENYA -->
   <!-- Spoken description for Unicode code point sequence U+1F1F0 U+1F1EC: "🇰🇬" FLAG FOR KYRGYZSTAN -->
   <!-- Spoken description for Unicode code point sequence U+1F1F0 U+1F1ED: "🇰🇭" FLAG FOR CAMBODIA -->
@@ -1997,9 +2112,12 @@
   <!-- Spoken description for Unicode code point sequence U+1F1F0 U+1F1F2: "🇰🇲" FLAG FOR COMOROS -->
   <!-- Spoken description for Unicode code point sequence U+1F1F0 U+1F1F3: "🇰🇳" FLAG FOR ST. KITTS & NEVIS -->
   <!-- Spoken description for Unicode code point sequence U+1F1F0 U+1F1F5: "🇰🇵" FLAG FOR NORTH KOREA -->
+  <string name="spoken_emoji_1F1F0_1F1F5">Bandera de Corea del Norte</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F0 U+1F1F7: "🇰🇷" FLAG FOR SOUTH KOREA -->
+  <string name="spoken_emoji_1F1F0_1F1F7">Bandera de Corea del Sur</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F0 U+1F1FC: "🇰🇼" FLAG FOR KUWAIT -->
   <!-- Spoken description for Unicode code point sequence U+1F1F0 U+1F1FE: "🇰🇾" FLAG FOR CAYMAN ISLANDS -->
+  <string name="spoken_emoji_1F1F0_1F1FE">Bandera d\'Islles Caimán</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F0 U+1F1FF: "🇰🇿" FLAG FOR KAZAKHSTAN -->
   <!-- Spoken description for Unicode code point sequence U+1F1F1 U+1F1E6: "🇱🇦" FLAG FOR LAOS -->
   <!-- Spoken description for Unicode code point sequence U+1F1F1 U+1F1E7: "🇱🇧" FLAG FOR LEBANON -->
@@ -2014,6 +2132,7 @@
   <!-- Spoken description for Unicode code point sequence U+1F1F1 U+1F1FE: "🇱🇾" FLAG FOR LIBYA -->
   <!-- Spoken description for Unicode code point sequence U+1F1F2 U+1F1E6: "🇲🇦" FLAG FOR MOROCCO -->
   <!-- Spoken description for Unicode code point sequence U+1F1F2 U+1F1E8: "🇲🇨" FLAG FOR MONACO -->
+  <string name="spoken_emoji_1F1F2_1F1E8">Bandera de Mónacu</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F2 U+1F1E9: "🇲🇩" FLAG FOR MOLDOVA -->
   <!-- Spoken description for Unicode code point sequence U+1F1F2 U+1F1EA: "🇲🇪" FLAG FOR MONTENEGRO -->
   <!-- Spoken description for Unicode code point sequence U+1F1F2 U+1F1EB: "🇲🇫" FLAG FOR ST. MARTIN -->
@@ -2027,12 +2146,15 @@
   <!-- Spoken description for Unicode code point sequence U+1F1F2 U+1F1F5: "🇲🇵" FLAG FOR NORTHERN MARIANA ISLANDS -->
   <!-- Spoken description for Unicode code point sequence U+1F1F2 U+1F1F6: "🇲🇶" FLAG FOR MARTINIQUE -->
   <!-- Spoken description for Unicode code point sequence U+1F1F2 U+1F1F7: "🇲🇷" FLAG FOR MAURITANIA -->
+  <string name="spoken_emoji_1F1F2_1F1F7">Bandera de Mauritania</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F2 U+1F1F8: "🇲🇸" FLAG FOR MONTSERRAT -->
   <!-- Spoken description for Unicode code point sequence U+1F1F2 U+1F1F9: "🇲🇹" FLAG FOR MALTA -->
+  <string name="spoken_emoji_1F1F2_1F1F9">Bandera de Malta</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F2 U+1F1FA: "🇲🇺" FLAG FOR MAURITIUS -->
   <!-- Spoken description for Unicode code point sequence U+1F1F2 U+1F1FB: "🇲🇻" FLAG FOR MALDIVES -->
   <!-- Spoken description for Unicode code point sequence U+1F1F2 U+1F1FC: "🇲🇼" FLAG FOR MALAWI -->
   <!-- Spoken description for Unicode code point sequence U+1F1F2 U+1F1FD: "🇲🇽" FLAG FOR MEXICO -->
+  <string name="spoken_emoji_1F1F2_1F1FD">Bandera de Méxicu</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F2 U+1F1FE: "🇲🇾" FLAG FOR MALAYSIA -->
   <!-- Spoken description for Unicode code point sequence U+1F1F2 U+1F1FF: "🇲🇿" FLAG FOR MOZAMBIQUE -->
   <!-- Spoken description for Unicode code point sequence U+1F1F3 U+1F1E6: "🇳🇦" FLAG FOR NAMIBIA -->
@@ -2040,40 +2162,63 @@
   <!-- Spoken description for Unicode code point sequence U+1F1F3 U+1F1EA: "🇳🇪" FLAG FOR NIGER -->
   <!-- Spoken description for Unicode code point sequence U+1F1F3 U+1F1EB: "🇳🇫" FLAG FOR NORFOLK ISLAND -->
   <!-- Spoken description for Unicode code point sequence U+1F1F3 U+1F1EC: "🇳🇬" FLAG FOR NIGERIA -->
+  <string name="spoken_emoji_1F1F3_1F1EC">Bandera de Nixeria</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F3 U+1F1EE: "🇳🇮" FLAG FOR NICARAGUA -->
+  <string name="spoken_emoji_1F1F3_1F1EE">Bandera de Nicaragua</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F3 U+1F1F1: "🇳🇱" FLAG FOR NETHERLANDS -->
+  <string name="spoken_emoji_1F1F3_1F1F1">Bandera de Países Baxos</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F3 U+1F1F4: "🇳🇴" FLAG FOR NORWAY -->
+  <string name="spoken_emoji_1F1F3_1F1F4">Bandera de Noruega</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F3 U+1F1F5: "🇳🇵" FLAG FOR NEPAL -->
+  <string name="spoken_emoji_1F1F3_1F1F5">Bandera de Nepal</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F3 U+1F1F7: "🇳🇷" FLAG FOR NAURU -->
   <!-- Spoken description for Unicode code point sequence U+1F1F3 U+1F1FA: "🇳🇺" FLAG FOR NIUE -->
   <!-- Spoken description for Unicode code point sequence U+1F1F3 U+1F1FF: "🇳🇿" FLAG FOR NEW ZEALAND -->
+  <string name="spoken_emoji_1F1F3_1F1FF">Bandera de Nueva Zelanda</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F4 U+1F1F2: "🇴🇲" FLAG FOR OMAN -->
+  <string name="spoken_emoji_1F1F4_1F1F2">Bandera d\'Omán</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F5 U+1F1E6: "🇵🇦" FLAG FOR PANAMA -->
+  <string name="spoken_emoji_1F1F5_1F1E6">Bandera de Panamá</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F5 U+1F1EA: "🇵🇪" FLAG FOR PERU -->
+  <string name="spoken_emoji_1F1F5_1F1EA">Bandera de Perú</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F5 U+1F1EB: "🇵🇫" FLAG FOR FRENCH POLYNESIA -->
+  <string name="spoken_emoji_1F1F5_1F1EB">Bandera de Polinesia Francesa</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F5 U+1F1EC: "🇵🇬" FLAG FOR PAPUA NEW GUINEA -->
   <!-- Spoken description for Unicode code point sequence U+1F1F5 U+1F1ED: "🇵🇭" FLAG FOR PHILIPPINES -->
+  <string name="spoken_emoji_1F1F5_1F1ED">Bandera de Filipines</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F5 U+1F1F0: "🇵🇰" FLAG FOR PAKISTAN -->
   <!-- Spoken description for Unicode code point sequence U+1F1F5 U+1F1F1: "🇵🇱" FLAG FOR POLAND -->
+  <string name="spoken_emoji_1F1F5_1F1F1">Bandera de Polonia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F5 U+1F1F2: "🇵🇲" FLAG FOR ST. PIERRE & MIQUELON -->
   <!-- Spoken description for Unicode code point sequence U+1F1F5 U+1F1F3: "🇵🇳" FLAG FOR PITCAIRN ISLANDS -->
+  <string name="spoken_emoji_1F1F5_1F1F3">Bandera d\'Islles Pitcairn</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F5 U+1F1F7: "🇵🇷" FLAG FOR PUERTO RICO -->
+  <string name="spoken_emoji_1F1F5_1F1F7">Bandera de Puertu Ricu</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F5 U+1F1F8: "🇵🇸" FLAG FOR PALESTINIAN TERRITORIES -->
   <!-- Spoken description for Unicode code point sequence U+1F1F5 U+1F1F9: "🇵🇹" FLAG FOR PORTUGAL -->
+  <string name="spoken_emoji_1F1F5_1F1F9">Bandera de Portugal</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F5 U+1F1FC: "🇵🇼" FLAG FOR PALAU -->
+  <string name="spoken_emoji_1F1F5_1F1FC">Bandera de Paláu</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F5 U+1F1FE: "🇵🇾" FLAG FOR PARAGUAY -->
+  <string name="spoken_emoji_1F1F5_1F1FE">Bandera de Paraguái</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F6 U+1F1E6: "🇶🇦" FLAG FOR QATAR -->
   <!-- Spoken description for Unicode code point sequence U+1F1F7 U+1F1EA: "🇷🇪" FLAG FOR RÉUNION -->
   <!-- Spoken description for Unicode code point sequence U+1F1F7 U+1F1F4: "🇷🇴" FLAG FOR ROMANIA -->
+  <string name="spoken_emoji_1F1F7_1F1F4">Bandera de Rumanía</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F7 U+1F1F8: "🇷🇸" FLAG FOR SERBIA -->
+  <string name="spoken_emoji_1F1F7_1F1F8">Bandera de Serbia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F7 U+1F1FA: "🇷🇺" FLAG FOR RUSSIA -->
+  <string name="spoken_emoji_1F1F7_1F1FA">Bandera de Rusia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F7 U+1F1FC: "🇷🇼" FLAG FOR RWANDA -->
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1E6: "🇸🇦" FLAG FOR SAUDI ARABIA -->
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1E7: "🇸🇧" FLAG FOR SOLOMON ISLANDS -->
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1E8: "🇸🇨" FLAG FOR SEYCHELLES -->
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1E9: "🇸🇩" FLAG FOR SUDAN -->
+  <string name="spoken_emoji_1F1F8_1F1E9">Bandera de Sudán</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1EA: "🇸🇪" FLAG FOR SWEDEN -->
+  <string name="spoken_emoji_1F1F8_1F1EA">Bandera de Suecia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1EC: "🇸🇬" FLAG FOR SINGAPORE -->
+  <string name="spoken_emoji_1F1F8_1F1EC">Bandera de Singapur</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1ED: "🇸🇭" FLAG FOR ST. HELENA -->
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1EE: "🇸🇮" FLAG FOR SLOVENIA -->
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1EF: "🇸🇯" FLAG FOR SVALBARD & JAN MAYEN -->
@@ -2081,11 +2226,13 @@
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1F1: "🇸🇱" FLAG FOR SIERRA LEONE -->
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1F2: "🇸🇲" FLAG FOR SAN MARINO -->
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1F3: "🇸🇳" FLAG FOR SENEGAL -->
+  <string name="spoken_emoji_1F1F8_1F1F3">Bandera de Senegal</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1F4: "🇸🇴" FLAG FOR SOMALIA -->
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1F7: "🇸🇷" FLAG FOR SURINAME -->
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1F8: "🇸🇸" FLAG FOR SOUTH SUDAN -->
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1F9: "🇸🇹" FLAG FOR SÃO TOMÉ & PRÍNCIPE -->
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1FB: "🇸🇻" FLAG FOR EL SALVADOR -->
+  <string name="spoken_emoji_1F1F8_1F1FB">Bandera d\'El Salvador</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1FD: "🇸🇽" FLAG FOR SINT MAARTEN -->
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1FE: "🇸🇾" FLAG FOR SYRIA -->
   <!-- Spoken description for Unicode code point sequence U+1F1F8 U+1F1FF: "🇸🇿" FLAG FOR SWAZILAND -->
@@ -2095,6 +2242,7 @@
   <!-- Spoken description for Unicode code point sequence U+1F1F9 U+1F1EB: "🇹🇫" FLAG FOR FRENCH SOUTHERN TERRITORIES -->
   <!-- Spoken description for Unicode code point sequence U+1F1F9 U+1F1EC: "🇹🇬" FLAG FOR TOGO -->
   <!-- Spoken description for Unicode code point sequence U+1F1F9 U+1F1ED: "🇹🇭" FLAG FOR THAILAND -->
+  <string name="spoken_emoji_1F1F9_1F1ED">Bandera de Tailandia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F9 U+1F1EF: "🇹🇯" FLAG FOR TAJIKISTAN -->
   <!-- Spoken description for Unicode code point sequence U+1F1F9 U+1F1F0: "🇹🇰" FLAG FOR TOKELAU -->
   <!-- Spoken description for Unicode code point sequence U+1F1F9 U+1F1F1: "🇹🇱" FLAG FOR TIMOR-LESTE -->
@@ -2102,29 +2250,42 @@
   <!-- Spoken description for Unicode code point sequence U+1F1F9 U+1F1F3: "🇹🇳" FLAG FOR TUNISIA -->
   <!-- Spoken description for Unicode code point sequence U+1F1F9 U+1F1F4: "🇹🇴" FLAG FOR TONGA -->
   <!-- Spoken description for Unicode code point sequence U+1F1F9 U+1F1F7: "🇹🇷" FLAG FOR TURKEY -->
+  <string name="spoken_emoji_1F1F9_1F1F7">Bandera de Turquía</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F9 U+1F1F9: "🇹🇹" FLAG FOR TRINIDAD & TOBAGO -->
   <!-- Spoken description for Unicode code point sequence U+1F1F9 U+1F1FB: "🇹🇻" FLAG FOR TUVALU -->
   <!-- Spoken description for Unicode code point sequence U+1F1F9 U+1F1FC: "🇹🇼" FLAG FOR TAIWAN -->
+  <string name="spoken_emoji_1F1F9_1F1FC">Bandera de Taiwán</string>
   <!-- Spoken description for Unicode code point sequence U+1F1F9 U+1F1FF: "🇹🇿" FLAG FOR TANZANIA -->
+  <string name="spoken_emoji_1F1F9_1F1FF">Bandera de Tanzania</string>
   <!-- Spoken description for Unicode code point sequence U+1F1FA U+1F1E6: "🇺🇦" FLAG FOR UKRAINE -->
   <!-- Spoken description for Unicode code point sequence U+1F1FA U+1F1EC: "🇺🇬" FLAG FOR UGANDA -->
+  <string name="spoken_emoji_1F1FA_1F1EC">Bandera d\'Uganda</string>
   <!-- Spoken description for Unicode code point sequence U+1F1FA U+1F1F2: "🇺🇲" FLAG FOR U.S. OUTLYING ISLANDS -->
   <!-- Spoken description for Unicode code point sequence U+1F1FA U+1F1F8: "🇺🇸" FLAG FOR UNITED STATES -->
+  <string name="spoken_emoji_1F1FA_1F1F8">Bandera d\'EE.XX</string>
   <!-- Spoken description for Unicode code point sequence U+1F1FA U+1F1FE: "🇺🇾" FLAG FOR URUGUAY -->
+  <string name="spoken_emoji_1F1FA_1F1FE">Bandera d\'Uruguái</string>
   <!-- Spoken description for Unicode code point sequence U+1F1FA U+1F1FF: "🇺🇿" FLAG FOR UZBEKISTAN -->
   <!-- Spoken description for Unicode code point sequence U+1F1FB U+1F1E6: "🇻🇦" FLAG FOR VATICAN CITY -->
+  <string name="spoken_emoji_1F1FB_1F1E6">Bandera de Ciudá del Vaticanu</string>
   <!-- Spoken description for Unicode code point sequence U+1F1FB U+1F1E8: "🇻🇨" FLAG FOR ST. VINCENT & GRENADINES -->
   <!-- Spoken description for Unicode code point sequence U+1F1FB U+1F1EA: "🇻🇪" FLAG FOR VENEZUELA -->
+  <string name="spoken_emoji_1F1FB_1F1EA">Bandera de Venezuela</string>
   <!-- Spoken description for Unicode code point sequence U+1F1FB U+1F1EC: "🇻🇬" FLAG FOR BRITISH VIRGIN ISLANDS -->
   <!-- Spoken description for Unicode code point sequence U+1F1FB U+1F1EE: "🇻🇮" FLAG FOR U.S. VIRGIN ISLANDS -->
   <!-- Spoken description for Unicode code point sequence U+1F1FB U+1F1F3: "🇻🇳" FLAG FOR VIETNAM -->
+  <string name="spoken_emoji_1F1FB_1F1F3">Bandera de Vietnam</string>
   <!-- Spoken description for Unicode code point sequence U+1F1FB U+1F1FA: "🇻🇺" FLAG FOR VANUATU -->
   <!-- Spoken description for Unicode code point sequence U+1F1FC U+1F1EB: "🇼🇫" FLAG FOR WALLIS & FUTUNA -->
   <!-- Spoken description for Unicode code point sequence U+1F1FC U+1F1F8: "🇼🇸" FLAG FOR SAMOA -->
+  <string name="spoken_emoji_1F1FC_1F1F8">Bandera de Samoa</string>
   <!-- Spoken description for Unicode code point sequence U+1F1FD U+1F1F0: "🇽🇰" FLAG FOR KOSOVO -->
   <!-- Spoken description for Unicode code point sequence U+1F1FE U+1F1EA: "🇾🇪" FLAG FOR YEMEN -->
+  <string name="spoken_emoji_1F1FE_1F1EA">Bandera de Yeme</string>
   <!-- Spoken description for Unicode code point sequence U+1F1FE U+1F1F9: "🇾🇹" FLAG FOR MAYOTTE -->
   <!-- Spoken description for Unicode code point sequence U+1F1FF U+1F1E6: "🇿🇦" FLAG FOR SOUTH AFRICA -->
+  <string name="spoken_emoji_1F1FF_1F1E6">Bandera de Sudáfrica</string>
   <!-- Spoken description for Unicode code point sequence U+1F1FF U+1F1F2: "🇿🇲" FLAG FOR ZAMBIA -->
+  <string name="spoken_emoji_1F1FF_1F1F2">Bandera de Zambia</string>
   <!-- Spoken description for Unicode code point sequence U+1F1FF U+1F1FC: "🇿🇼" FLAG FOR ZIMBABWE -->
 </resources>
