@@ -86,13 +86,13 @@
     <string name="gesture_space_aware" msgid="2078291600664682496">"Gebaar voor woordgroep"</string>
     <string name="gesture_space_aware_summary" msgid="4371385818348528538">"Spaties invoeren door naar de spatietoets te bewegen"</string>
     <string name="voice_input" msgid="3583258583521397548">"Toets voor spraakinvoer"</string>
-    <string name="voice_input_disabled_summary" msgid="8141750303464726129">"Geen spraakinvoermethoden ingeschakeld. Ga naar \'Instellingen voor taal en invoer\'."</string>
+    <string name="voice_input_disabled_summary" msgid="6323489602945135165">"Geen spraakinvoermethoden ingeschakeld. Bekijk de instellingen bij \'Talen en invoer\'."</string>
     <string name="configure_input_method" msgid="373356270290742459">"Invoermethoden configureren"</string>
     <string name="language_selection_title" msgid="3666971864764478269">"Talen"</string>
     <string name="help_and_feedback" msgid="5328219371839879161">"Help en feedback"</string>
     <string name="select_language" msgid="5709487854987078367">"Talen"</string>
-    <string name="hint_add_to_dictionary" msgid="573678656946085380">"Tik nogmaals om op te slaan"</string>
-    <string name="hint_add_to_dictionary_without_word" msgid="3040385779511255101">"Tik hier om op te slaan"</string>
+    <string name="hint_add_to_dictionary" msgid="2645988432867033007">"Tik nogmaals om op te slaan"</string>
+    <string name="hint_add_to_dictionary_without_word" msgid="6710206006427574423">"Tik hier om op te slaan"</string>
     <string name="has_dictionary" msgid="6071847973466625007">"Woordenboek beschikbaar"</string>
     <string name="keyboard_layout" msgid="8451164783510487501">"Toetsenbordthema"</string>
     <string name="switch_accounts" msgid="3321216593719006162">"Schakelen tussen accounts"</string>
