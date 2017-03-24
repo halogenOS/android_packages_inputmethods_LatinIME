@@ -21,13 +21,13 @@
 <resources>
   <!-- Application name for opensource halogenOS keyboard. AOSP(Android Open Source Project) should not be translated.
          This resource should be copied from msgid="8250992613616792321" -->
-  <string name="english_ime_name">Tecláu halogenOS</string>
+  <string name="english_ime_name">Tecláu d\'halogenOS</string>
   <!-- Name of halogenOS spell checker service. AOSP(Android Open Source Project) should not be translated.
          This resource should be copied from msgid="511950477199948048" -->
   <string name="spell_checker_service_name">Correutor ortográficu halogenOS</string>
   <!-- Title for halogenOS Keyboard settings screen. AOSP(Android Open Source Project) should not be translated.
          This resource should be copied from msgid="423615877174850267" -->
-  <string name="english_ime_settings">Axustes tecláu halogenOS</string>
+  <string name="english_ime_settings">Axustes de tecláu d\'halogenOS</string>
   <!-- Title for the spell checking service settings screen. AOSP(Android Open Source Project) should not be translated.
          This resource should be copied from msgid="2970535894327288421" -->
   <string name="android_spell_checker_settings">Axustes correutor ortográficu halogenOS</string>
