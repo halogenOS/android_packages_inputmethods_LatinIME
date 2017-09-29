@@ -56,7 +56,7 @@ public final class SettingsFragment extends InputMethodSettingsFragment {
             final Preference accountsPreference = findPreference(Settings.SCREEN_ACCOUNTS);
             preferenceScreen.removePreference(accountsPreference);
         }
-        if (!JniUtils.mHaveGestureLib) {
+        if (!JniUtils.sHaveGestureLib) {
             final Preference gesturePreference = findPreference(Settings.SCREEN_GESTURE);
             preferenceScreen.removePreference(gesturePreference);
         }
