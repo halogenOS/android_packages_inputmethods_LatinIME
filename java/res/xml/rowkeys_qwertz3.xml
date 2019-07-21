@@ -29,7 +29,7 @@
     <Key
         latin:keySpec="x"
         latin:keyHintLabel="&quot;"
-        latin:additionalMoreKeys="&quot;"  />
+        latin:additionalMoreKeys="&quot;" />
     <Key
         latin:keySpec="c"
         latin:keyHintLabel="&apos;"
@@ -43,7 +43,7 @@
     <Key
         latin:keySpec="b"
         latin:keyHintLabel=";"
-        latin:additionalMoreKeys=";"  />
+        latin:additionalMoreKeys=";" />
     <Key
         latin:keySpec="n"
         latin:keyHintLabel="!"
@@ -52,5 +52,5 @@
     <Key
         latin:keySpec="m"
         latin:keyHintLabel="\?"
-        latin:additionalMoreKeys="\\?"  />
+        latin:additionalMoreKeys="\\?" />
 </merge>

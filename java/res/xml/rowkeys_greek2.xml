@@ -36,8 +36,8 @@
     <!-- U+03B4: "δ" GREEK SMALL LETTER DELTA -->
     <Key
         latin:keySpec="&#x03B4;"
-        latin:keyHintLabel="$"
-        latin:additionalMoreKeys="$" />
+        latin:keyHintLabel="€"
+        latin:additionalMoreKeys="€" />
     <!-- U+03C6: "φ" GREEK SMALL LETTER PHI -->
     <Key
         latin:keySpec="&#x03C6;"
