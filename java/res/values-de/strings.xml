@@ -60,7 +60,7 @@
     <string name="use_personalized_dicts" msgid="5167396352105467626">"Personalisierte Vorschläge"</string>
     <string name="enable_metrics_logging" msgid="5506372337118822837">"<xliff:g id="APPLICATION_NAME">%s</xliff:g> verbessern"</string>
     <string name="use_double_space_period" msgid="8781529969425082860">"Punkt plus Leerzeichen"</string>
-    <string name="use_double_space_period_summary" msgid="6532892187247952799">"Für Punkt plus Leerzeichen zweimal auf die Leertaste tippen﻿﻿"</string>
+    <string name="use_double_space_period_summary" msgid="6532892187247952799">"Für Punkt plus Leerzeichen doppelt auf die Leertaste tippen﻿﻿"</string>
     <string name="auto_cap" msgid="1719746674854628252">"Autom. Groß-/Kleinschreibung"</string>
     <string name="auto_cap_summary" msgid="7934452761022946874">"Das erste Wort jedes Satzes großschreiben"</string>
     <string name="edit_personal_dictionary" msgid="3996910038952940420">"Mein Wörterbuch"</string>
@@ -98,7 +98,7 @@
     <string name="switch_accounts" msgid="3321216593719006162">"Konto wechseln"</string>
     <string name="no_accounts_selected" msgid="2073821619103904330">"Keine Konten ausgewählt"</string>
     <string name="account_selected" msgid="2846876462199625974">"Momentan wird <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g> verwendet."</string>
-    <string name="account_select_ok" msgid="9141195141763227797">"OK"</string>
+    <string name="account_select_ok" msgid="9141195141763227797">"Ok"</string>
     <string name="account_select_cancel" msgid="5181012062618504340">"Abbrechen"</string>
     <string name="account_select_sign_out" msgid="3299651159390187933">"Abmelden"</string>
     <string name="account_select_title" msgid="6279711684772922649">"Zu verwendendes Konto auswählen"</string>
@@ -195,7 +195,7 @@
     <string name="user_dict_settings_add_screen_title" msgid="5818914331629278758">"Wortgruppe"</string>
     <string name="user_dict_settings_add_dialog_more_options" msgid="5671682004887093112">"Weitere Optionen"</string>
     <string name="user_dict_settings_add_dialog_less_options" msgid="2716586567241724126">"Weniger Optionen"</string>
-    <string name="user_dict_settings_add_dialog_confirm" msgid="4703129507388332950">"OK"</string>
+    <string name="user_dict_settings_add_dialog_confirm" msgid="4703129507388332950">"Ok"</string>
     <string name="user_dict_settings_add_word_option_name" msgid="6665558053408962865">"Wort:"</string>
     <string name="user_dict_settings_add_shortcut_option_name" msgid="3094731590655523777">"Tastaturkürzel:"</string>
     <string name="user_dict_settings_add_locale_option_name" msgid="4738643440987277705">"Sprache:"</string>
