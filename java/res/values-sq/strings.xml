@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"Lësho tingull kur shtyp tastin"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"Zmadhim germe kur shtyp"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"Preferencat"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"Llogaritë dhe privatësia"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"Pamja dhe struktura"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"Shkrimi me gjeste"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"Korrigjim teksti"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"I përparuar"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"Tema"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"Aktivizo tastierën e ndarë"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Sinkronizimi i tastierës së Google"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"Sinkronizimi është i aktivizuar"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"Sinkronizo fjalorin tënd personal midis pajisjeve"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"Sinkronizo tani"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"Fshi të dhënat në Renë kompjuterike"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"Fshin të dhënat e tua të sinkronizuara nga Google"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"Të dhënat e tua të sinkronizuara do të fshihen nga Reja kompjuterike. Je i sigurt?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"Fshi"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"Anulo"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Fjalori yt personal do të sinkronizohet dhe do të rezervohet në serverët e Google. Informacionet statistikore mbi shpeshtësinë e përdorimit të fjalëve mund të mblidhen për të ndihmuar në përmirësimin e produkteve tona. Mbledhja dhe përdorimi i të gjitha informacioneve do të jetë në përputhje me "<a href="https://www.google.com/policies/privacy">"Politikën e privatësisë së Google"</a>"."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Shto një llogari të Google në këtë pajisje për të aktivizuar këtë funksion"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Sinkronizimi nuk mundësohet për pajisjet me llogari të \"Aplikacioneve të Google për biznesin\""</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Kalo në metoda të tjera hyrjeje"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Tasti i ndryshimit të gjuhës mbulon edhe metoda të tjera hyrjeje"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"Tasti i ndryshimit të gjuhës"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"Trokit këtu për të ruajtur"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"Fjalor i përdorshëm"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"Tema e tastierës"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"Ndrysho llogaritë"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"Nuk u përzgjodh asnjë llogari"</string>
-    <string name="account_selected" msgid="2929764293361296224">"Aktualisht po përdor <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"Në rregull!"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"Anulo"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"Dil"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"Zgjidh një llogari për përdorim"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"anglisht (MB)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"anglisht (SHBA)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"spanjisht (SHBA)"</string>

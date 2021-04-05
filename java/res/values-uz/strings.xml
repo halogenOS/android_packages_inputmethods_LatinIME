@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"Tugmalar tovushi"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"Tugma bosilganda qalqib chiqish"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"Sozlamalar"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"Hisoblar va maxfiylik"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"Ko‘rinish va sxema"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"Qo‘l uzmasdan yozish"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"Matnni tuzatish"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"Kengaytirilgan sozlamalar"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"Mavzu"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"Ikkiga ajratiladigan klaviaturani yoqish"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Klaviaturani sinxronlash"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"Sinxronlash yoqildi"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"Shaxsiy lug‘atingizni qurilmalar bo‘ylab sinxronlang"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"Hozir sinxronlash"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"Bulutdagi ma’lumotlarni o‘chirish"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"Sinxronlangan ma’lumotlarni Google serveridan o‘chirib tashlash"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"Sinxronlangan ma’lumotlaringiz o‘chib ketadi. Davom etsinmi?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"O‘chirish"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"Bekor qilish"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Sizning shaxsiy lug\'atingiz Google serverlarida sinxronlashadi va zahiraga nusxalanadi. So‘zning qayta uchrash ko‘rsatkichi statistik ma’lumotlari, bizga mahsulotlarimiz sifatini oshirishda ko‘maklashish uchun to‘planishi mumkin. Barcha ma’lumotlar yig‘ilishi va foydalanishi "<a href="https://www.google.com/policies/privacy">" Google maxfiylik siyosati "</a>" shartlari bo‘yicha amalga oshadi."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Ushbu imkoniyatni yoqish uchun, iltimos, Google hisobingizni qo‘shing"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"“Biznes uchun Google Apps” hisobi mavjud qurilmalarda sinxronlab bo‘lmaydi"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Boshqa usullarga o‘tish"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Tilni almashtirish tugmasi matn kiritish usulini ham o‘zgartiradi"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"Tilni almashtirish tugmasi"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"Saqlash uchun bu yerga tegining"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"Lug‘at mavjud"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"Klaviatura mavzusi"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"Hisobni almashtirish"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"Hech qanday hisob tanlanmadi"</string>
-    <string name="account_selected" msgid="2929764293361296224">"Hozir foydalanilmoqda: <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"OK"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"Bekor qilish"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"Chiqish"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"Foydalanish uchun hisobni tanlang"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"Ingliz (Buyuk Britaniya)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"Ingliz (AQSH)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"Ispan (AQSH)"</string>

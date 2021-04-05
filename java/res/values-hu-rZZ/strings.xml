@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="6093592297198243644">"Hangjelzés gombnyomásra"</string>
     <string name="popup_on_keypress" msgid="123894815723512944">"Nagyobb billentyű gombnyomásra"</string>
     <string name="settings_screen_preferences" msgid="2696713156722014624">"Beállítások"</string>
-    <string name="settings_screen_accounts" msgid="2786418968536696670">"Fiókok és adatvédelem"</string>
     <string name="settings_screen_appearance" msgid="7358046399111611615">"Megjelenés és elrendezés"</string>
     <string name="settings_screen_gesture" msgid="8826372746901183556">"Kézmozdulatokkal történő gépelés"</string>
     <string name="settings_screen_correction" msgid="1616818407747682955">"Szövegjavítás"</string>
     <string name="settings_screen_advanced" msgid="7472408607625972994">"Speciális"</string>
     <string name="settings_screen_theme" msgid="2137262503543943871">"Téma"</string>
     <string name="enable_split_keyboard" msgid="4177264923999493614">"Megosztott billentyűzet bekapcsolása"</string>
-    <string name="cloud_sync_title" msgid="8579271074443847055">"Google-billentyűzet szinkronizálása"</string>
-    <string name="cloud_sync_summary" msgid="7684887161145650857">"A szinkronizálás be van kapcsolva"</string>
-    <string name="cloud_sync_summary_disabled" msgid="4553338970382825796">"Szinkronizálja személyes szótárát eszközei között"</string>
-    <string name="sync_now_title" msgid="3088838136743277721">"Szinkronizálás most"</string>
-    <string name="clear_sync_data_title" msgid="8582001557037069154">"Adatok törlése a felhőből"</string>
-    <string name="clear_sync_data_summary" msgid="993477139012576584">"Törli a Google rendszeréből a szinkronizált adatokat"</string>
-    <string name="clear_sync_data_confirmation" msgid="2811931135574727678">"A szinkronizált adatok törlődnek a felhőből. Biztosan folytatja?"</string>
-    <string name="clear_sync_data_ok" msgid="613104067705915132">"Törlés"</string>
-    <string name="cloud_sync_cancel" msgid="5877481252150919037">"Mégse"</string>
-    <string name="cloud_sync_opt_in_text" msgid="9176039655776298248">"A rendszer szinkronizálni fogja az Ön személyes szótárát, és biztonsági mentést készít róla a Google szerverein. Termékeink továbbfejlesztése érdekében a rendszer a szavak előfordulási gyakoriságára vonatkozó statisztikai adatokat gyűjthet. Ezen információkat a "<a href="https://www.google.com/policies/privacy">"Google adatvédelmi irányelveivel"</a>" összhangban gyűjtjük és használjuk fel."</string>
-    <string name="add_account_to_enable_sync" msgid="7836932571852055265">"A funkció engedélyezéséhez adjon egy Google-fiókot az eszközhöz"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="1381770407303129164">"A Google Apps cégeknek-fiókkal rendelkező eszközökön nem érhető el a szinkronizálás"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="4533689960308565519">"Váltás más beviteli módra"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="840637129103317635">"A nyelvkapcsoló gomb egyéb beviteli módokat is tartalmaz"</string>
     <string name="show_language_switch_key" msgid="5915478828318774384">"A nyelvkapcsoló"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="6710206006427574423">"Koppintson ide a mentéshez"</string>
     <string name="has_dictionary" msgid="6071847973466625007">"Van elérhető szótár"</string>
     <string name="keyboard_layout" msgid="8451164783510487501">"Billentyűzettéma"</string>
-    <string name="switch_accounts" msgid="3321216593719006162">"Fiókváltás"</string>
-    <string name="no_accounts_selected" msgid="2073821619103904330">"Nem választott fiókot"</string>
-    <string name="account_selected" msgid="2846876462199625974">"Jelenleg használt fiók: <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="account_select_ok" msgid="9141195141763227797">"OK"</string>
-    <string name="account_select_cancel" msgid="5181012062618504340">"Mégse"</string>
-    <string name="account_select_sign_out" msgid="3299651159390187933">"Kijelentkezés"</string>
-    <string name="account_select_title" msgid="6279711684772922649">"Válassza ki a használni kívánt fiókot"</string>
     <string name="subtype_en_GB" msgid="88170601942311355">"angol (brit)"</string>
     <string name="subtype_en_US" msgid="6160452336634534239">"angol (amerikai)"</string>
     <string name="subtype_es_US" msgid="5583145191430180200">"spanyol (USA)"</string>

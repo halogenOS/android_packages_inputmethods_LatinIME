@@ -26,31 +26,12 @@
     <string name="sound_on_keypress">Sonar al calcar tecla</string>
     <string name="popup_on_keypress">Ampliar al calcar tecla</string>
     <string name="settings_screen_preferences">Preferencies</string>
-    <string name="settings_screen_accounts">Cuentes y privacidá</string>
     <string name="settings_screen_appearance">Aspeutu y distribuciones</string>
     <string name="settings_screen_gesture">Escritura xestual</string>
     <string name="settings_screen_correction">Correición ortográfica</string>
     <string name="settings_screen_advanced">Avanzao</string>
     <string name="settings_screen_theme">Tema</string>
     <string name="enable_split_keyboard">Activar tecláu partíu</string>
-    <string name="cloud_sync_title">Sincronización del tecláu Google</string>
-    <string name="cloud_sync_summary">Sincronización activada</string>
-    <string name="cloud_sync_summary_disabled">Sincroniza\'l diccionariu personal pente los preseos</string>
-    <string name="sync_now_title">Sincronizar agora</string>
-    <string name="clear_sync_data_title">Desaniciar datos na ñube</string>
-    <string name="clear_sync_data_summary">Desanicia los tos datos sincronizaos en Google</string>
-    <string name="clear_sync_data_confirmation">Desaniciaránse tolos tos datos sincroniazaos na ñube. ¿Tas seguru?</string>
-    <string name="clear_sync_data_ok">Desaniciar</string>
-    <string name="cloud_sync_cancel">Encaboxar</string>
-    <string name="cloud_sync_opt_in_text">Sincronizaráse y respaldaráse\'l diccionariu personal nos
-        sirvidores de Google. Quiciabes se coleicione la información estadística de frecuencia
-        de pallabres p\'ameyorar los nuesos productos. La coleición y usu de tola información obedez a la
-        <a href="https://www.google.com/policies/privacy">Política de privacidá de Google</a>.
-    </string>
-    <string name="add_account_to_enable_sync">        Amiesta una cuenta de Google p\'activar esta carauterística
-    </string>
-    <string name="cloud_sync_summary_disabled_work_profile">        La sincronización nun ta disponible pa preseos con cuentes Google Apps for Business
-    </string>
     <string name="include_other_imes_in_language_switch_list">Cambiar a otros métodos d\'introducción</string>
     <string name="include_other_imes_in_language_switch_list_summary">La tecla de cambéu de llingua val tamién pa otros métodos</string>
     <string name="show_language_switch_key">Tecla de cambéu de llingua</string>
@@ -98,13 +79,6 @@
     <string name="hint_add_to_dictionary">Volvi calcar pa guardar</string>
     <string name="has_dictionary">Hai un diccionariu disponible</string>
     <string name="keyboard_layout">Tema de tecláu</string>
-    <string name="switch_accounts">Conmutar cuentes</string>
-    <string name="no_accounts_selected">Nun s\'esbillaron cuentes</string>
-    <string name="account_selected">Anguaño usando <xliff:g id="EMAIL_ADDRESS" example="someone@example.com">%1$s</xliff:g></string>
-    <string name="account_select_ok">Aceutar</string>
-    <string name="account_select_cancel">Encaboxar</string>
-    <string name="account_select_sign_out">Zarrar sesión</string>
-    <string name="account_select_title">Esbillar una cuenta pa usar</string>
     <string name="subtype_en_GB">Inglés (UK)</string>
     <string name="subtype_en_US">Inglés (US)</string>
     <string name="subtype_es_US">Español (US)</string>

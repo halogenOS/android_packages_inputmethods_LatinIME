@@ -26,25 +26,12 @@
     <string name="sound_on_keypress">Sain wrth dapio bysell</string>
     <string name="popup_on_keypress">Chwyddo bysell wrth ei dapio</string>
     <string name="settings_screen_preferences">Dewisiadau</string>
-    <string name="settings_screen_accounts">Cyfrifon a Phreifatrwydd</string>
     <string name="settings_screen_appearance">Arddull a Gosodiad</string>
     <string name="settings_screen_gesture">Teipio Ystum</string>
     <string name="settings_screen_correction">Cywiriad testun</string>
     <string name="settings_screen_advanced">Uwch</string>
     <string name="settings_screen_theme">Thema</string>
     <string name="enable_split_keyboard">Galluogi hollti\'r bysellfwrdd</string>
-    <string name="cloud_sync_title">Cysoni Bysellfwrdd Google</string>
-    <string name="cloud_sync_summary">Mae cysoni ar waith</string>
-    <string name="cloud_sync_summary_disabled">Cysoni dy eiriadur personol ar draws gwahanol ddyfeisiau</string>
-    <string name="sync_now_title">Cysoni nawr</string>
-    <string name="clear_sync_data_title">Dileu data yn y cwmwl</string>
-    <string name="clear_sync_data_summary">Mae\'n dileu dy ddata wedi\'i gysoni gan Google</string>
-    <string name="clear_sync_data_confirmation">Caiff dy ddata sydd wedi ei gysoni ei dileu o\'r cwmwl. Wyt ti\'n siŵr?</string>
-    <string name="clear_sync_data_ok">Dileu</string>
-    <string name="cloud_sync_cancel">Diddymu</string>
-    <string name="cloud_sync_opt_in_text">Caiff dy eiriadur personol ei gysoni a bydd copi wrth gefn yn cael ei gadw ar weinyddwyr Google. Gall gwybodaeth ystadegol defnydd geiriau gael ei gasglu i helpu gwella cynnyrch. Bydd y casglu a\'r defnydd o\'r wybodaeth yn cydymffurfio â <a href="https://www.google.com/policies/privacy">Polisi Preifatrwydd Google</a>.</string>
-    <string name="add_account_to_enable_sync">Ychwanega gyfrif Google i\'r ddyfais hon er mwyn galluogi\'r nodwedd hon.    </string>
-    <string name="cloud_sync_summary_disabled_work_profile">Dyw cysoni ddim yn bosib ar ddyfeisiau gyda chyfrifon Google Apps ar gyfer Busnes.    </string>
     <string name="include_other_imes_in_language_switch_list">Newid i ddulliau mewnbwn eraill</string>
     <string name="include_other_imes_in_language_switch_list_summary">Mae\'r fysell newid iaith yn rheoli dulliau mewnbwn eraill hefyd</string>
     <string name="show_language_switch_key">Bysell newid iaith</string>
@@ -94,13 +81,6 @@
     <string name="hint_add_to_dictionary_without_word">Tapia yma i gadw</string>
     <string name="has_dictionary">Geiriadur ar gael</string>
     <string name="keyboard_layout">Thema bysellfwrdd</string>
-    <string name="switch_accounts">Newid cyfrifon</string>
-    <string name="no_accounts_selected">Dim cyfrif wedi\'i ddewis</string>
-    <string name="account_selected">Yn defnyddio <xliff:g id="EMAIL_ADDRESS" example="someone@example.com">%1$s</xliff:g> ar hyn o bryd</string>
-    <string name="account_select_ok">Iawn</string>
-    <string name="account_select_cancel">Diddymu</string>
-    <string name="account_select_sign_out">Allgofnodi</string>
-    <string name="account_select_title">Dewisa gyfrif i\'w ddefnyddio</string>
     <string name="subtype_en_GB">Saesneg (DU)</string>
     <string name="subtype_en_US">Saesneg (UDA)</string>
     <string name="subtype_es_US">Sbaeneg (UDA)</string>

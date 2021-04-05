@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"ಕೀಪ್ರೆಸ್ ಶಬ್ದ"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"ಕೀಪ್ರೆಸ್‌ನಲ್ಲಿ ಪಾಪ್ಅಪ್"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"ಪ್ರಾಶಸ್ತ್ಯಗಳು"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"ಖಾತೆಗಳು ಮತ್ತು ಗೌಪ್ಯತೆ"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"ಗೋಚರತೆ ಮತ್ತು ಲೇಔಟ್‌ಗಳು"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"ಗೆಸ್ಚರ್ ಟೈಪಿಂಗ್"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"ಪಠ್ಯ ತಿದ್ದುಪಡಿ"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"ಸುಧಾರಿತ"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"ಥೀಮ್"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"ಬೇರ್ಪಡೆ ಕೀಬೋರ್ಡ್ ಸಕ್ರಿಯಗೊಳಿಸಿ"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Google ಕೀಬೋರ್ಡ್‌ ಸಿಂಕ್‌"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"ಸಿಂಕ್‌ ಆನ್‌ ಆಗಿದೆ"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ನಿಘಂಟನ್ನು ಸಾಧನಗಳಲ್ಲಿ ಸಿಂಕ್ ಮಾಡಿ"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"ಈಗ ಸಿಂಕ್ ಮಾಡು"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"ಕ್ಲೌಡ್ ಡೇಟಾವನ್ನು ಅಳಿಸಿ"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"Google ನಿಂದ ನಿಮ್ಮ ಸಿಂಕ್ ಮಾಡಲಾದ ಡೇಟಾವನ್ನು ಅಳಿಸುತ್ತದೆ"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"ಸಿಂಕ್‌ ಮಾಡಲಾದ ಡೇಟಾವನ್ನು ಮೇಘದಿಂದ ಅಳಿಸಲಾಗುತ್ತದೆ. ಇದು ಖಚಿತವೇ?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"ಅಳಿಸಿ"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"ರದ್ದುಮಾಡಿ"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ನಿಘಂಟನ್ನು Google ಸರ್ವರ್‌ಗಳಿಗೆ ಸಿಂಕ್‌ ಮಾಡಲಾಗುತ್ತದೆ ಹಾಗೂ ಬ್ಯಾಕಪ್‌ ಮಾಡಲಾಗುತ್ತದೆ. ನಮ್ಮ ಉತ್ಪನ್ನಗಳನ್ನು ಸುಧಾರಿಸಲು ಪದ ಆವರ್ತನೆಯ ಅಂಕಿಅಂಶವನ್ನು ಸಂಗ್ರಹಿಸಬಹುದು. ಎಲ್ಲಾ ಮಾಹಿತಿಯ ಸಂಗ್ರಹಣೆ ಮತ್ತು ಬಳಕೆಯು "<a href="https://www.google.com/policies/privacy">"Google ನ ಗೌಪ್ಯತೆ ನೀತಿ"</a>"ಗೆ ಬದ್ಧವಾಗಿರುತ್ತವೆ."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"ಈ ಸಾಧನಕ್ಕೆ ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ದಯವಿಟ್ಟು Google ಖಾತೆಯನ್ನು ಸೇರಿಸಿ"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"ವ್ಯಾಪಾರಕ್ಕಾಗಿ Google Apps ಖಾತೆಗಳನ್ನು ಹೊಂದಿರುವ ಸಾಧನಗಳಿಗೆ ಸಿಂಕ್ ಲಭ್ಯವಿಲ್ಲ"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"ಇತರೆ ಇನ್‌ಪುಟ್ ವಿಧಾನಗಳಿಗೆ ಬದಲಾಯಿಸು"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"ಭಾಷಾ ಬದಲಾವಣೆ ಕೀಯು ಇತರೆ ಇನ್‌ಪುಟ್ ವಿಧಾನಗಳನ್ನು ಕೂಡ ಒಳಗೊಂಡಿರುತ್ತದೆ"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"ಭಾಷೆ ಬದಲಾವಣೆ ಕೀ"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"ಉಳಿಸಲು ಇಲ್ಲಿ ಟ್ಯಾಪ್ ಮಾಡಿ"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"ನಿಘಂಟು ಲಭ್ಯವಿದೆ"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"ಕೀಬೋರ್ಡ್ ಥೀಮ್"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"ಖಾತೆಗಳನ್ನು ಬದಲಿಸು"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"ಯಾವುದೇ ಖಾತೆಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿಲ್ಲ"</string>
-    <string name="account_selected" msgid="2929764293361296224">"ಪ್ರಸ್ತತವಾಗಿ <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g> ಅನ್ನು ಬಳಸುತ್ತಿರುವಿರಿ"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"ಸರಿ"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"ರದ್ದುಮಾಡಿ"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"ಸೈನ್ ಔಟ್"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"ಬಳಸಲು ಖಾತೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"ಇಂಗ್ಲಿಷ್ (ಯುಕೆ)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"ಇಂಗ್ಲಿಷ್ (US)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"ಸ್ಪ್ಯಾನಿಷ್ (US)"</string>

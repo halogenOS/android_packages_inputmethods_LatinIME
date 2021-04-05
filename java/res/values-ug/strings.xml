@@ -25,7 +25,6 @@
     <string name="vibrate_on_keypress">خەت بېسىلسا تىترەت</string>
     <string name="sound_on_keypress">خەت بېسىش ئاۋازى</string>
     <string name="popup_on_keypress">ھەرپ بېسىلسا قاڭقىش كۆزنىكىنى كۆرسەت</string>
-    <string name="cloud_sync_cancel">ۋاز كەچ</string>
     <string name="include_other_imes_in_language_switch_list">باشقا كىرگۈزگۈچكە ئالماشتۇر</string>
     <string name="include_other_imes_in_language_switch_list_summary">تىل ئالماشتۇرۇش كۇنۇپكىسىنى باشقا كىرگۈزگۈچكە ئالماشتۇرۇش ئۈچۈنمۇ ئىشلەتكىلى بولىدۇ</string>
     <string name="show_language_switch_key">تىل ئالماشتۇرۇش كۇنۇپكىسى</string>
@@ -64,7 +63,6 @@
     <string name="hint_add_to_dictionary">\u2190 قايتا چېكىلسە ساقلايدۇ</string>
     <string name="has_dictionary">لۇغەت بار</string>
     <string name="keyboard_layout">ھەرپتاختا ئۆرنەك</string>
-    <string name="account_select_cancel">ۋاز كەچ</string>
     <string name="subtype_en_GB">ئىنگلىزچە (ئەنگلىيە)</string>
     <string name="subtype_en_US">ئىنگلىزچە (ئا ق ش)</string>
     <string name="subtype_es_US">ئىسپانچە (ئا ق ش)</string>

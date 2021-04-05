@@ -30,8 +30,6 @@
     <string name="settings_screen_correction">ڕاستکردنه‌وه‌ی ده‌ق</string>
     <string name="settings_screen_advanced">پەرەسەندوو</string>
     <string name="settings_screen_theme">ڕووکار</string>
-    <string name="clear_sync_data_ok">سڕینه‌وه‌</string>
-    <string name="cloud_sync_cancel">هەڵوەشاندنەوە</string>
     <string name="include_other_imes_in_language_switch_list">گۆڕین بۆ ته‌خته‌کلیلێکی تر</string>
     <string name="include_other_imes_in_language_switch_list_summary">کلیلی گۆڕینی زمان بۆ ڕێگاکانی تر</string>
     <string name="show_language_switch_key">کلیلی گۆڕینی زمان</string>
@@ -80,8 +78,6 @@
     <string name="hint_add_to_dictionary_without_word">ئێرە بسوو بۆ پاشەکەوتکردن</string>
     <string name="has_dictionary">فەرهەنگ بەردەستە</string>
     <string name="keyboard_layout">رووکاری تەختەکلیل</string>
-    <string name="account_select_ok">باشه‌</string>
-    <string name="account_select_cancel">هەڵوەشاندنەوە</string>
     <string name="subtype_en_GB">ئینگلیزی (بریتانیا)</string>
     <string name="subtype_en_US">ئینگلیزی (ئه‌مریکا)</string>
     <string name="subtype_es_US">ئیسپانی (ئەمریکا)</string>

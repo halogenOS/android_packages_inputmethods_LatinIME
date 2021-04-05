@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"Lyd ved tastetrykk"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"Forgrunnsvindu ved tastetrykk"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"Innstillinger"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"Kontoer og personvern"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"Utseende og utforming"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"Ordføring"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"Tekstkorrigering"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"Avansert"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"Tema"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"Aktivér delt tastatur"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Synkroniser Google-tastatur"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"Synkronisering er slått på"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"Synkroniser den personlige ordboken din på alle enheter"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"Synkroniser nå"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"Slett nettskydata"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"Sletter de synkroniserte dataene dine fra Google"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"De synkroniserte dataene blir slettet fra skyen. Er du sikker?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"Slett"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"Avbryt"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Den personlige ordlisten din blir synkronisert og sikkerhetskopiert til Google-tjenere. For å bidra til å forbedre produktene våre, kan det hende vi samler inn informasjon om ordfrekvens. Innsamling og bruk av all informasjon skjer i henhold til "<a href="https://www.google.com/policies/privacy">"Googles personvernregler"</a>"."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Legg en Google-konto til enheten for å aktivere denne funksjonen"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Synkronisering er ikke tilgjengelig for enheter med Google Apps for Business-kontoer"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Bytt inndatametode"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Tasten for språkbytte dekker også andre inndatametoder"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"Nøkkel for språkskifte"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"Trykk her for å lagre"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"Ordbok tilgjengelig"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"Tastaturtema"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"Bytt konto"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"Ingen kontoer er valgt"</string>
-    <string name="account_selected" msgid="2929764293361296224">"Du bruker for øyeblikket <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"OK"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"Avbryt"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"Logg av"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"Velg kontoen du vil bruke"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"Engelsk (Storbritannia)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"Engelsk (USA)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"spansk (USA)"</string>

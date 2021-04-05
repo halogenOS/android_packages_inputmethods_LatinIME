@@ -70,7 +70,7 @@ public class DictionaryFacilitatorLruCache {
           // Note: Given that personalized dictionaries are not used here; we can pass null account.
           mDictionaryFacilitator.resetDictionaries(mContext, mLocale,
               mUseContactsDictionary, false /* usePersonalizedDicts */,
-              false /* forceReloadMainDictionary */, null /* account */,
+              false /* forceReloadMainDictionary */,
               mDictionaryNamePrefix, null /* listener */);
         }
     }

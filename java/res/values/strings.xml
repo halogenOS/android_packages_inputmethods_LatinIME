@@ -38,8 +38,6 @@
 
     <!-- Settings screen title for preferences [CHAR LIMIT=33]-->
     <string name="settings_screen_preferences">Preferences</string>
-    <!-- Settings screen title for accounts and privacy preferences [CHAR LIMIT=33]-->
-    <string name="settings_screen_accounts">Accounts &amp; Privacy</string>
     <!-- Settings screen title for appearance & layouts preferences [CHAR LIMIT=33] -->
     <string name="settings_screen_appearance">Appearance &amp; Layouts</string>
     <!-- Settings screen title for gesture typing preferences [CHAR_LIMIT=33] -->
@@ -54,38 +52,6 @@
     <!--  Option for enabling or disabling the split keyboard layout. [CHAR LIMIT=65]-->
     <string name="enable_split_keyboard">Enable split keyboard</string>
 
-    <!-- Option title for enabling cloud sync feature [CHAR LIMIT=33]-->
-    <string name="cloud_sync_title">Google Keyboard Sync</string>
-    <!-- Option summary when cloud sync feature is enabled  [CHAR LIMIT=65] -->
-    <string name="cloud_sync_summary">Sync is turned on</string>
-    <!-- Option summary when cloud sync feature is disabled  [CHAR LIMIT=65] -->
-    <string name="cloud_sync_summary_disabled">Sync your personal dictionary across devices</string>
-    <!-- Option title for starting the sync cycle now. [CHAR LIMIT=33]-->
-    <string name="sync_now_title">Sync now</string>
-    <!-- Option title for letting user delete synced google keyboard data from Google servers.  [CHAR LIMIT=35] -->
-    <string name="clear_sync_data_title">Delete cloud data</string>
-    <!-- Option summary for letting user delete synced google keyboard data from Google servers. [CHAR LIMIT=65] -->
-    <string name="clear_sync_data_summary">Deletes your synced data from Google</string>
-    <!-- Text for confirmation dialog box asking user to confirm deletion of cloud data. [CHAR LIMIT=65] -->
-    <string name="clear_sync_data_confirmation">Your synced data will be deleted from the cloud. Are you sure?</string>
-    <!-- Option to confirm deleting of user data from cloud [CHAR LIMIT=20] -->
-    <string name="clear_sync_data_ok">Delete</string>
-    <!-- Option to cancel the deletion of user data from cloud [CHAR LIMIT=20] -->
-    <string name="cloud_sync_cancel">Cancel</string>
-    <!-- Option to agree to terms and conditions for enabling cloud sync feature. -->
-    <string name="cloud_sync_opt_in_text">Your personal dictionary will be synced and backed up to
-        Google servers. The statistical information of word frequency may be collected to help
-        improve our products. The collection and usage of all the information will be compliant with
-        <a href="https://www.google.com/policies/privacy">Google\'s Privacy Policy</a>.
-    </string>
-    <!-- Text to tell the user to add a Google account to the device to enable the cloud sync feature. [CHAR LIMIT=65]-->
-    <string name="add_account_to_enable_sync">
-        Please add a Google account to this device to enable this feature
-    </string>
-    <!-- Text to tell the user that sync feature is disabled because they have Google Apps for Business account(s) on their device. [CHAR LIMIT=80]-->
-    <string name="cloud_sync_summary_disabled_work_profile">
-        Sync is not available for devices with Google Apps for Business accounts
-    </string>
 
     <!-- Option name for including other IMEs in the language switch list [CHAR LIMIT=30] -->
     <string name="include_other_imes_in_language_switch_list">Switch to other input methods</string>
@@ -210,22 +176,6 @@
     <!-- Title of the item to change the keyboard theme [CHAR LIMIT=20]-->
     <string name="keyboard_layout">Keyboard theme</string>
 
-    <!-- Title of the preference item for switching accounts [CHAR LIMIT=30] -->
-    <string name="switch_accounts">Switch accounts</string>
-    <!-- Summary of the preference item for switching accounts when no accounts
-         are selected [CHAR LIMIT=65] -->
-    <string name="no_accounts_selected">No accounts selected</string>
-    <!-- Summary of the preference item for switching accounts when an account
-         is selected [CHAR LIMIT=65] -->
-    <string name="account_selected">Currently using <xliff:g id="EMAIL_ADDRESS" example="someone@example.com">%1$s</xliff:g></string>
-    <!-- Positive text for selecting an account -->
-    <string name="account_select_ok">OK</string>
-    <!-- Negative text for selecting an account -->
-    <string name="account_select_cancel">Cancel</string>
-    <!-- Text for signing out of an account -->
-    <string name="account_select_sign_out">Sign out</string>
-    <!-- Title of the account picker dialog for selecting an account [CHAR LIMIT=40] -->
-    <string name="account_select_title">Select an account to use</string>
 
     <!-- Description for English (UK) keyboard subtype [CHAR LIMIT=25]
          (UK) should be an abbreviation of United Kingdom to fit in the CHAR LIMIT. -->

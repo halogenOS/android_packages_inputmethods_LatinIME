@@ -30,8 +30,6 @@
     <string name="settings_screen_correction">Textverbesserung</string>
     <string name="settings_screen_advanced">Erweidert</string>
     <string name="settings_screen_theme">Design</string>
-    <string name="clear_sync_data_ok">Läschen</string>
-    <string name="cloud_sync_cancel">Ofbriechen</string>
     <string name="include_other_imes_in_language_switch_list">Bei aner Methode fir anzegi wiesselen</string>
     <string name="include_other_imes_in_language_switch_list_summary">D\'Sproochwiesseltast ëmfaasst och aner Methode fir anzeginn</string>
     <string name="show_language_switch_key">Sproochwiesseltast</string>
@@ -80,8 +78,6 @@
     <string name="hint_add_to_dictionary_without_word">Hei drécke fir ze späicheren</string>
     <string name="has_dictionary">Dictionnaire disponibel</string>
     <string name="keyboard_layout">Tastaturdesign</string>
-    <string name="account_select_ok">OK</string>
-    <string name="account_select_cancel">Ofbriechen</string>
     <string name="subtype_en_GB">Englesch (Groussbritannien)</string>
     <string name="subtype_en_US">Englesch (USA)</string>
     <string name="subtype_es_US">Spuenesch (US)</string>
