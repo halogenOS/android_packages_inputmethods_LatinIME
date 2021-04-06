@@ -45,7 +45,6 @@ import java.util.Random;
 public class UserHistoryDictionaryTests {
     private static final String TAG = UserHistoryDictionaryTests.class.getSimpleName();
     private static final int WAIT_FOR_WRITING_FILE_IN_MILLISECONDS = 3000;
-    private static final String TEST_ACCOUNT = "account@example.com";
 
     private int mCurrentTime = 0;
 
@@ -115,18 +114,17 @@ public class UserHistoryDictionaryTests {
         dict.waitAllTasksForTests();
     }
 
-    private void doTestRandomWords(final String testAccount) {
+    private void doTestRandomWords() {
         Log.d(TAG, "This test can be used for profiling.");
         Log.d(TAG, "Usage: please set UserHistoryDictionary.PROFILE_SAVE_RESTORE to true.");
         final Locale dummyLocale = UserHistoryDictionaryTestsHelper.getDummyLocale("random_words");
         final String dictName = UserHistoryDictionary.getUserHistoryDictName(
                 UserHistoryDictionary.NAME, dummyLocale,
-                null /* dictFile */,
-                testAccount /* account */);
+                null /* dictFile */);
         final File dictFile = ExpandableBinaryDictionary.getDictFile(
                 getContext(), dictName, null /* dictFile */);
         final UserHistoryDictionary dict = PersonalizationHelper.getUserHistoryDictionary(
-                getContext(), dummyLocale, testAccount);
+                getContext(), dummyLocale);
         clearHistory(dict);
 
         final int numberOfWords = 1000;
@@ -137,26 +135,16 @@ public class UserHistoryDictionaryTests {
     }
 
     @Test
-    public void testRandomWords_NullAccount() {
-        doTestRandomWords(null /* testAccount */);
-    }
-
-    @Test
     public void testRandomWords() {
-        doTestRandomWords(TEST_ACCOUNT);
+        doTestRandomWords();
     }
 
     @Test
     public void testStressTestForSwitchingLanguagesAndAddingWords() {
-        doTestStressTestForSwitchingLanguagesAndAddingWords(TEST_ACCOUNT);
+        doTestStressTestForSwitchingLanguagesAndAddingWords();
     }
 
-    @Test
-    public void testStressTestForSwitchingLanguagesAndAddingWords_NullAccount() {
-        doTestStressTestForSwitchingLanguagesAndAddingWords(null /* testAccount */);
-    }
-
-    private void doTestStressTestForSwitchingLanguagesAndAddingWords(final String testAccount) {
+    private void doTestStressTestForSwitchingLanguagesAndAddingWords() {
         final int numberOfLanguages = 2;
         final int numberOfLanguageSwitching = 80;
         final int numberOfWordsInsertedForEachLanguageSwitch = 100;
@@ -172,12 +160,11 @@ public class UserHistoryDictionaryTests {
                 final Locale dummyLocale =
                         UserHistoryDictionaryTestsHelper.getDummyLocale("switching_languages" + i);
                 final String dictName = UserHistoryDictionary.getUserHistoryDictName(
-                        UserHistoryDictionary.NAME, dummyLocale, null /* dictFile */,
-                        testAccount /* account */);
+                        UserHistoryDictionary.NAME, dummyLocale, null /* dictFile */);
                 dictFiles[i] = ExpandableBinaryDictionary.getDictFile(
                         getContext(), dictName, null /* dictFile */);
                 dicts[i] = PersonalizationHelper.getUserHistoryDictionary(getContext(),
-                        dummyLocale, testAccount);
+                        dummyLocale);
                 clearHistory(dicts[i]);
             }
 
@@ -205,25 +192,20 @@ public class UserHistoryDictionaryTests {
 
     @Test
     public void testAddManyWords() {
-        doTestAddManyWords(TEST_ACCOUNT);
+        doTestAddManyWords();
     }
 
-    @Test
-    public void testAddManyWords_NullAccount() {
-        doTestAddManyWords(null /* testAccount */);
-    }
-
-    private void doTestAddManyWords(final String testAccount) {
+    private void doTestAddManyWords() {
         final Locale dummyLocale =
                 UserHistoryDictionaryTestsHelper.getDummyLocale("many_random_words");
         final String dictName = UserHistoryDictionary.getUserHistoryDictName(
-                UserHistoryDictionary.NAME, dummyLocale, null /* dictFile */, testAccount);
+                UserHistoryDictionary.NAME, dummyLocale, null /* dictFile */);
         final File dictFile = ExpandableBinaryDictionary.getDictFile(
                 getContext(), dictName, null /* dictFile */);
         final int numberOfWords = 10000;
         final Random random = new Random(123456);
         final UserHistoryDictionary dict = PersonalizationHelper.getUserHistoryDictionary(
-                getContext(), dummyLocale, testAccount);
+                getContext(), dummyLocale);
         clearHistory(dict);
         assertTrue(UserHistoryDictionaryTestsHelper.addAndWriteRandomWords(dict,
                 numberOfWords, random, true /* checksContents */, mCurrentTime));
