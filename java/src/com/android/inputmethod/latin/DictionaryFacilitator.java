@@ -74,13 +74,6 @@ public interface DictionaryFacilitator {
      */
     boolean isForLocale(final Locale locale);
 
-    /**
-     * Returns whether this facilitator is exactly for this account.
-     *
-     * @param account the account to test against.
-     */
-    boolean isForAccount(@Nullable final String account);
-
     interface DictionaryInitializationListener {
         void onUpdateMainDictionaryAvailability(boolean isMainDictionaryAvailable);
     }
@@ -117,7 +110,6 @@ public interface DictionaryFacilitator {
             final boolean useContactsDict,
             final boolean usePersonalizedDicts,
             final boolean forceReloadMainDictionary,
-            @Nullable final String account,
             final String dictNamePrefix,
             @Nullable final DictionaryInitializationListener listener);
 
@@ -127,8 +119,7 @@ public interface DictionaryFacilitator {
             final Locale locale,
             final ArrayList<String> dictionaryTypes,
             final HashMap<String, File> dictionaryFiles,
-            final Map<String, Map<String, String>> additionalDictAttributes,
-            @Nullable final String account);
+            final Map<String, Map<String, String>> additionalDictAttributes);
 
     void closeDictionaries();
 

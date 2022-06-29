@@ -698,10 +698,6 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
         } else {
             subtypeLocale = subtypeSwitcherLocale;
         }
-        if (mDictionaryFacilitator.isForLocale(subtypeLocale)
-                && mDictionaryFacilitator.isForAccount(mSettings.getCurrent().mAccount)) {
-            return;
-        }
         resetDictionaryFacilitator(subtypeLocale);
     }
 
@@ -717,7 +713,7 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
         mDictionaryFacilitator.resetDictionaries(this /* context */, locale,
                 settingsValues.mUseContactsDict, settingsValues.mUsePersonalizedDicts,
                 false /* forceReloadMainDictionary */,
-                settingsValues.mAccount, "" /* dictNamePrefix */,
+                "" /* dictNamePrefix */,
                 this /* DictionaryInitializationListener */);
         if (settingsValues.mAutoCorrectionEnabledPerUserSettings) {
             mInputLogic.mSuggest.setAutoCorrectionThreshold(
@@ -735,7 +731,7 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
                 mDictionaryFacilitator.getLocale(), settingsValues.mUseContactsDict,
                 settingsValues.mUsePersonalizedDicts,
                 true /* forceReloadMainDictionary */,
-                settingsValues.mAccount, "" /* dictNamePrefix */,
+                "" /* dictNamePrefix */,
                 this /* DictionaryInitializationListener */);
     }
 
@@ -1935,7 +1931,7 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
         mDictionaryFacilitator.resetDictionaries(this, locale,
             settingsValues.mUseContactsDict, settingsValues.mUsePersonalizedDicts,
             false /* forceReloadMainDictionary */,
-            settingsValues.mAccount, "", /* dictionaryNamePrefix */
+            "", /* dictionaryNamePrefix */
             this /* DictionaryInitializationListener */);
     }
 

@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"Bunyi pada tekanan kekunci"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"Pop timbul pada tekanan kunci"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"Pilihan"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"Akaun &amp; Privasi"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"Penampilan &amp; Bentangan"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"Taipan Gerak Isyarat"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"Pembetulan teks"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"Lanjutan"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"Tema"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"Dayakan papan kekunci terpisah"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Penyegerakan Papan Kekunci Google"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"Penyegerakan dihidupkan"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"Segerakkan kamus peribadi anda merentas peranti"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"Segerakkan sekarang"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"Padamkan data awan"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"Memadam data disegerak anda dari Google"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"Data yang disegerakkan akan dipadamkan daripada awan. Anda pasti?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"Padam"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"Batal"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Kamus peribadi anda akan disegerakkan dan disandarkan ke pelayan Google. Maklumat statistik kekerapan perkataan mungkin dikumpulkan untuk membantu mempertingkatkan produk kami. Pengumpulan dan penggunaan semua maklumat adalah selaras dengan "<a href="https://www.google.com/policies/privacy">"Dasar Privasi Google"</a>"."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Sila tambahkan akaun Google pada peranti ini untuk mendayakan ciri ini"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Segerak tidak tersedia untuk peranti dengan akaun Google Apps untuk Perniagaan"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Tukar ke kaedah input lain"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Kunci pertukaran bahasa meliputi kaedah masukan lain juga"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"Kekunci tukar bahasa"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"Ketik di sini untuk menyimpan"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"Kamus tersedia"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"Tema papan kekunci"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"Beralih akaun"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"Tiada akaun dipilih"</string>
-    <string name="account_selected" msgid="2929764293361296224">"Pada masa ini menggunakan <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"OK"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"Batal"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"Log keluar"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"Pilih akaun untuk digunakan"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"Bahasa Inggeris (UK)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"Bahasa Inggeris (Australia)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"Bahasa Sepanyol (AS)"</string>

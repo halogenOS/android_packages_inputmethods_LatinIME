@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"按键音效"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"按键时弹出显示字符"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"偏好设置"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"帐号和隐私权"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"外观和布局"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"滑行输入"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"文字更正"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"高级"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"主题背景"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"使用分离式键盘"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Google 键盘同步"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"同步功能已开启"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"在设备间同步您的个人字典"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"立即同步"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"删除云端数据"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"将您已同步的数据从 Google 删除"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"您已同步的数据将会从云端删除。确定要执行此操作吗？"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"删除"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"取消"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"您的个人字典将会同步并备份到 Google 服务器。系统可能会收集字词出现频率的统计信息，来帮助改进我们的产品。所有信息的收集和使用都会遵守 "<a href="https://www.google.com/policies/privacy">"Google 隐私权政策"</a>"。"</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"要启用此功能，请将 Google 帐号添加到此设备中"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"在登录了 Google Apps for Business 帐号的设备上无法使用同步功能"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"切换到其他输入法"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"语言切换键也可用于切换其他输入法"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"语言切换键"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"点按此处即可保存"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"有可用字典"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"键盘主题"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"切换帐号"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"未选择任何帐号"</string>
-    <string name="account_selected" msgid="2929764293361296224">"当前使用的是<xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"确定"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"取消"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"退出帐号"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"选择要使用的帐号"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"英语(英国)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"英语(美国)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"西班牙语（美国）"</string>

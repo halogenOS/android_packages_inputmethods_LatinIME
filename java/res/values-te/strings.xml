@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"కీని నొక్కినప్పుడు ధ్వని"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"కీని నొక్కినప్పుడు పాప్‌అప్ చూపు"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"ప్రాధాన్యతలు"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"ఖాతాలు &amp; గోప్యత"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"కనిపించే తీరు &amp; లేఅవుట్‌లు"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"సంజ్ఞ టైపింగ్"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"వచన సవరణ"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"అధునాతనం"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"థీమ్"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"విభజన కీబోర్డ్‌ను ప్రారంభించు"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Google కీబోర్డ్ సమకాలీకరణ"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"సమకాలీకరణ ఆన్ చేయబడింది"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"పరికరాల్లో మీ వ్యక్తిగత నిఘంటువును సమకాలీకరించండి"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"ఇప్పుడే సింక్ చేయి"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"cloud డేటాను తొలగించండి"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"మీ సమకాలీకృత డేటాను Google నుండి తొలగిస్తుంది"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"cloud నుండి మీ సమ. డేటా తొలగించబడుతుంది. మీరు చేయాలనుకుంటున్నారా?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"తొలగించు"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"రద్దు చేయి"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"మీ వ్యక్తిగత నిఘంటువు Google సర్వర్‌లకు సమకాలీకరించబడుతుంది మరియు బ్యాకప్ చేయబడుతుంది. మా ఉత్పత్తులను మెరుగుపరచడంలో సహాయకరంగా ఉండటానికి పదం తరచుదనానికి సంబంధించిన గణాంక సమాచారం సేకరించవచ్చు. మొత్తం సమాచార సేకరణ మరియు వినియోగం "<a href="https://www.google.com/policies/privacy">"Google గోప్యతా విధానం"</a>"కి లోబడి ఉంటుంది."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"దయచేసి ఈ లక్షణాన్ని ప్రారంభించడానికి ఈ పరికరానికి Google ఖాతాను జోడించండి"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"వ్యాపారం కోసం Google Apps ఖాతాలు గల పరికరాల కోసం సమకాలీకరణ అందుబాటులో లేదు"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"ఇతర ఇన్‌పుట్ పద్ధతులకు మారండి"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"భాష మార్పు కీ ఇతర ఇన్‌పుట్ పద్ధతులను కూడా కవర్ చేస్తుంది"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"భాష మార్పు కీ"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"సేవ్ చేయడానికి ఇక్కడ నొక్కండి"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"నిఘంటువు అందుబాటులో ఉంది"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"కీబోర్డ్ థీమ్"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"ఖాతాలు మార్చండి"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"ఖాతాలు ఏవీ ఎంచుకోబడలేదు"</string>
-    <string name="account_selected" msgid="2929764293361296224">"ప్రస్తుతం <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>ని ఉపయోగిస్తున్నారు"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"సరే"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"రద్దు చేయి"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"సైన్ అవుట్ చేయండి"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"ఉపయోగించడానికి ఖాతాను ఎంచుకోండి"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"ఆంగ్లం (యుకె)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"ఆంగ్లం (యుఎస్)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"స్పానిష్ (యుఎస్)"</string>

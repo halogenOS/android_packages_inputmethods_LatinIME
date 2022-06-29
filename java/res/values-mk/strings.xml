@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"Звук на притискање копче"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"Појавен прозорец на притискање копче"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"Претпочитани поставки"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"Сметки и приватност"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"Изглед и распоред"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"Пишување со движење"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"Корекција на текст"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"Напредни"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"Тема"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"Овозможи поделена тастатура"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Синхронизирање на таст. на Google"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"Синхронизирањето е вклучено"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"Синхронизирајте го личниот речник низ уредите"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"Синхронизирај сега"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"Избриши податоци од облакот"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"Ги брише синхронизираните податоци од Google"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"Синхронизираните податоци ќе се избр. од облак. Дали сте сигурни?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"Избриши"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"Откажи"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Вашиот личен речник ќе се синхронизира и ќе се создаде резервна копија на серверите на Google. Може да се собираат статистички информации за честотата на зборовите за помош при подобрување на нашите производи. Собирањето и користењето на сите информации ќе биде во согласност со "<a href="https://www.google.com/policies/privacy">"Политиката за приватност на Google"</a>"."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Додајте сметка на Google на уредов за овозможување на функцијава"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Синхронизација не е достапна за уреди со сметки за бизнис на Апликации на Google"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Префрли на други влезни методи"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Копчето за менување јазици покрива и други методи на внес"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"Копче за промена на јазик"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"Допрете тука за да се зачува"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"Речникот е достапен"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"Тема на тастатурата"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"Префрли сметки"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"Не се избрани сметки"</string>
-    <string name="account_selected" msgid="2929764293361296224">"Во моментов ја користите <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"Во ред"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"Откажи"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"Одјави се"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"Изберете ја сметката што ќе ја користите"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"англиски (ОК)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"англиски (САД)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"шпански (САД)"</string>
