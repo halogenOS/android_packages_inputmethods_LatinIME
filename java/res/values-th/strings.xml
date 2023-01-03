@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"ส่งเสียงเมื่อกดปุ่ม"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"ป๊อปอัปเมื่อกดแป้น"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"ค่ากำหนด"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"บัญชีและความเป็นส่วนตัว"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"ลักษณะที่ปรากฏและการจัดวาง"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"การป้อนข้อมูลด้วยท่าทาง"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"การแก้ไขข้อความ"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"ขั้นสูง"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"ธีม"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"เปิดใช้แป้นพิมพ์แยก"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"การซิงค์แป้นพิมพ์ของ Google"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"การซิงค์เปิดอยู่"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"ซิงค์พจนานุกรมส่วนตัวในอุปกรณ์ต่างๆ"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"ซิงค์เลย"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"ลบข้อมูลระบบคลาวด์"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"ลบข้อมูลที่ซิงค์ออกจาก Google"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"ข้อมูลที่ซิงค์จะลบออกจากระบบคลา⁠วด์ คุณแน่ใจไหม"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"ลบ"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"ยกเลิก"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"พจนานุกรมส่วนตัวของคุณจะซิงค์และสำรองข้อมูลไปยังเซิร์ฟเวอร์ Google ข้อมูลเชิงสถิติของความถี่ในการใช้คำอาจได้รับการเก็บรวบรวมเพื่อใช้ปรับปรุงผลิตภัณฑ์ของเรา การเก็บรวบรวมและการใช้งานข้อมูลทั้งหมดจะเป็นไปอย่างสอดคล้องกับ"<a href="https://www.google.com/policies/privacy">"นโยบายความเป็นส่วนตัวของ Google"</a></string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"โปรดเพิ่มบัญชี Google ไปยังอุปกรณ์นี้เพื่อเปิดใช้ฟีเจอร์นี้"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"การซิงค์ไม่พร้อมใช้งานสำหรับอุปกรณ์ที่มีบัญชี Google Apps for Business"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"ใช้วิธีการป้อนข้อมูลอื่น"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"แป้นสลับภาษาครอบคลุมวิธีการป้อนข้อมูลอื่นๆ ด้วย"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"แป้นสลับภาษา"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"แตะที่นี่เพื่อบันทึก"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"มีพจนานุกรมให้ใช้งาน"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"ชุดรูปแบบแป้นพิมพ์"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"สลับบัญชี"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"ไม่ได้เลือกบัญชี"</string>
-    <string name="account_selected" msgid="2929764293361296224">"ปัจจุบันใช้ <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"ตกลง"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"ยกเลิก"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"ออกจากระบบ"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"เลือกบัญชีที่จะใช้"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"อังกฤษ (สหราชอาณาจักร)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"อังกฤษ (อเมริกัน)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"สเปน (สหรัฐอเมริกา)"</string>

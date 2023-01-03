@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"Phát âm thanh khi nhấn phím"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"Phông chữ lớn hơn bật lên khi nhấn phím"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"Tùy chọn"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"Tài khoản và bảo mật"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"Giao diện và bố cục"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"Nhập bằng cử chỉ"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"Sửa văn bản"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"Nâng cao"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"Chủ đề"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"Bật chia bàn phím"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Đồng bộ hóa Bàn phím Google"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"Đã bật tính năng đồng bộ hóa"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"Đồng bộ hóa từ điển cá nhân của bạn trên các thiết bị"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"Đồng bộ hóa ngay bây giờ"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"Xóa dữ liệu đám mây"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"Xóa dữ liệu đã được đồng bộ hóa của bạn khỏi Google"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"Dữ liệu đã đồng bộ hóa của bạn sẽ bị xóa khỏi đám mây. Bạn có chắc chắn không?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"Xóa"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"Hủy"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Từ điển cá nhân của bạn sẽ được đồng bộ hóa và sao lưu vào máy chủ Google. Chúng tôi có thể thu thập thông tin thống kê về tần suất của từ để giúp cải thiện sản phẩm của mình. Việc thu thập và sử dụng tất cả thông tin sẽ tuân thủ "<a href="https://www.google.com/policies/privacy">"Chính sách quyền riêng tư của Google"</a>"."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Vui lòng thêm một tài khoản Google vào thiết bị này để bật tính năng này"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Tính năng đồng bộ hóa không khả dụng cho các thiết bị có tài khoản Google Apps for Business"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Phương thức nhập khác"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Khóa chuyển ngôn ngữ bao gồm cả các phương thức nhập liệu khác"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"Phím chuyển đổi ngôn ngữ"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"Nhấn vào đây để lưu"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"Có sẵn từ điển"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"Chủ đề bàn phím"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"Chuyển đổi tài khoản"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"Chưa chọn tài khoản nào"</string>
-    <string name="account_selected" msgid="2929764293361296224">"Hiện đang sử dụng <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"OK"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"Hủy"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"Đăng xuất"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"Chọn một tài khoản để sử dụng"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"Tiếng Anh (Anh)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"Tiếng Anh (Mỹ)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"Tiếng Tây Ban Nha (Mỹ)"</string>

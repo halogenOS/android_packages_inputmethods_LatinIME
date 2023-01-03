@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"Ձայնը սեղմման ժամանակ"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"Ելնող պատուհան՝ ստեղնի հպման դեպքում"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"Նախընտրանքներ"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"Հաշիվներ և գաղտնիություն"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"Արտաքին տեսք և դասավորություն"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"Ժեստերով մուտքագրում"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"Տեքստի ուղղում"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"Հավելյալ"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"Թեմա"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"Միացնել բաժանված ստեղնաշարը"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Google Ստեղնաշարի համաժամացում"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"Համաժամացումը միացված է"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"Համաժամացնել ձեր անհատական բառարանը սարքերի միջև"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"Համաժամացնել հիմա"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"Ջնջել ամպի տվյալները"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"Google- ից ջնջում է ձեր համաժամացրած տվյալները"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"Ձեր համաժամացրած տվյալները ջնջվելու են ամպից: Շարունակե՞լ:"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"Ջնջել"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"Չեղարկել"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Ձեր անհատական բառարանը համաժամացվելու և կրկնօրինակվելու է Google սերվերներում: Կարող են հավաքվել բառերի օգտագործման հաճախականության վիճակագրական տվյալներ՝ մեր արտադրանքների որակը բարելավելու նպատակով: Բոլոր տվյալները հավաքվելու և օգտագործվելու են "<a href="https://www.google.com/policies/privacy">"Google-ի Գաղտնիության քաղաքականության"</a>" դրույթների համաձայն:"</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Այս հնարավորությունն ընձեռելու համար սարքում հավելեք Google հաշիվ"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Google Apps for Business հաշիվներով սարքերում համաժամացումը հասանելի չէ"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Անցնել մուտքագրման այլ եղանակների"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Լեզվի փոխարկման բանալին ընդգրկում է այլ մուտքագրման եղանակներ ևս"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"Լեզվի փոխարկման ստեղն"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"Հպեք այստեղ՝ պահելու համար"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"Բառարանն առկա է"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"Ստեղնաշարի թեման"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"Անցնել մյուս հաշիվ"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"Հաշիվ չի ընտրվել"</string>
-    <string name="account_selected" msgid="2929764293361296224">"Ներկայումս օգտագործում է՝ <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"Հաստատել"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"Չեղարկել"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"Դուրս գալ"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"Ընտրեք հաշիվ՝ օգտագործելու համար"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"Անգլերեն (ՄԹ)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"Անգլերեն (ԱՄՆ)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"Իսպաներեն (ԱՄՆ)"</string>

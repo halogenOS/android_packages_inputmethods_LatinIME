@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"ხმა კლავიშზე დაჭერისას"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"გადიდება ღილაკზე დაჭერისას"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"პარამეტრები"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"ანგარიშები &amp; კონფიდენციალურობა"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"იერსახე &amp; განლაგებები"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"ჟესტებით წერა"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"ტექსტის კორექცია"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"გაფართოებული"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"თემა"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"გაყოფილი კლავიატურის გააქტიურება"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Google კლავიატურის სინქრონიზება"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"სინქრონიზება ჩართულია"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"აწარმოეთ თქვენი პერს. ლექსიკონის სინქ. მოწყობილობების მასშტაბით"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"ახლა სინქრონიზაცია"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"ღრუბლის მონაცემების წაშლა"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"წაშლის Google-თან თქვენს სინქრონიზებულს მონაცემებს"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"თქვენი სინქ. მონაც. წაიშლება ღრუბ. სივრციდან. დარწმუნებული ხართ?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"წაშლა"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"გაუქმება"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"თქვენი პერსონალური ლექსიკონი სინქრონიზდება და შეინახება სარეზერვოდ Google სერვერებზე. ჩვენი პროდუქტების გასაუმჯობესებლად, შეიძლება შეგროვდეს სტატისტიკური ინფორმაცია სიტყვების სიხშირის შესახებ. ნებისმიერი ინფორმაციის შეგროვება და გამოყენება "<a href="https://www.google.com/policies/privacy">"Google-ის კონფიდენციალურობის პოლიტიკასთან"</a>" შესაბამისობაში იქნება."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"ფუნქციის ჩასართავად, გთხოვთ მოწყობილობას Google ანგარიში დაამატოთ"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"სინქრ. არ არის ხელმისაწვდომი Google Apps for Business ანგ. მქონე მოწყ."</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"შეყვანის სხვა მეთოდებზე გადართვა"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"ენის გადართვის ღილაკს შეყვანის სხვა მეთოდებსაც შეიცავს"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"ენის გადართვის კლავიში"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"შესანახად, შეეხეთ აქ"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"ხელმისაწვდომია ლექსიკონი"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"კლავიატურის თემა"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"ანგარიშების გადართვა"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"ანგარიშები არჩეული არ არის"</string>
-    <string name="account_selected" msgid="2929764293361296224">"ამჟამად გამოიყენება <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"კარგი"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"გაუქმება"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"გამოსვლა"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"აირჩიეთ გამოსაყენებელი ანგარიში"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"ინგლისური (გართ. სამ.)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"ინგლისური (აშშ)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"ესპანური (აშშ)"</string>
