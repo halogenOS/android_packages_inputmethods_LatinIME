@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"விசையழுத்தத்தின்போது ஒலியெழுப்பு"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"விழை அழுத்தத்தின்போது பாப்அப் செய்"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"விருப்பங்கள்"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"கணக்குகள் &amp; தனியுரிமை"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"தோற்றம் &amp; தளவமைப்புகள்"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"ஸ்வைப் தட்டச்சு"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"உரை திருத்தம்"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"மேம்பட்டவை"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"தீம்"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"பிரிக்கப்பட்ட விசைப்பலகையை இயக்கு"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Google விசைப்பலகை ஒத்திசைவு"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"ஒத்திசைவு இயக்கப்பட்டது"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"எல்லா சாதனங்களிலும் தனிப்பட்ட அகராதியை ஒத்திசைக்கவும்"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"இப்போது ஒத்திசைத்தல்"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"கிளவுடு தரவை நீக்கவும்"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"Google இலிருந்து ஒத்திசைத்த தரவை நீக்கும்"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"ஒத்திசைத்தத் தரவு மேகக்கணியிலிருந்து நீக்கப்படும். நிச்சயமாக நீக்கவா?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"நீக்கு"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"ரத்துசெய்"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"உங்கள் தனிப்பட்ட அகராதி ஒத்திசைக்கப்பட்டு, Google சேவையகங்களில் காப்புப் பிரதி எடுக்கப்படும். எங்கள் தயாரிப்புகளை மேம்படுத்த உதவ, சொல் உபயோகத்தின் புள்ளிவிவரத் தகவல் சேகரிக்கப்படலாம். எல்லா தகவல்களின் சேகரிப்பும், உபயோகமும் "<a href="https://www.google.com/policies/privacy">"Google இன் தனியுரிமைக் கொள்கைக்கு"</a>" இணங்கியபடியே இருக்கும்."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"இந்த அம்சத்தை இயக்க, சாதனத்தில் Google கணக்கைச் சேர்க்கவும்"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"வணிகத்திற்கான Google Apps கணக்குகள் இயங்கும் சாதனங்களில் ஒத்திசைக்க முடியாது."</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"பிற உள்ளீட்டு முறைகளுக்கு மாறு"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"மொழி மாற்றல் விசை பிற உள்ளீட்டு முறைகளையும் கட்டுப்படுத்துகிறது"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"மொழி மாற்ற விசை"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"சேமிக்க, இங்கே தட்டவும்"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"அகராதி உள்ளது"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"விசைப்பலகை தீம்"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"கணக்குகளை மாற்று"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"கணக்குகள் எதையும் தேர்வுசெய்யவில்லை"</string>
-    <string name="account_selected" msgid="2929764293361296224">"இப்போது <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>ஐப் பயன்படுத்துகிறீர்கள்"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"சரி"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"ரத்துசெய்"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"வெளியேறு"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"பயன்படுத்த, கணக்கைத் தேர்ந்தெடு"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"ஆங்கிலம் (யூகே)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"ஆங்கிலம் (யூஎஸ்)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"ஸ்பானிஷ் (யூஎஸ்)"</string>

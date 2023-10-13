@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"की दाबताना आवाज"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"की दाबताना पॉपअप"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"प्राधान्ये"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"खाती आणि गोपनीयता"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"स्वरूप आणि लेआउट"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"जेश्चर टायपिंग"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"मजकूर दुरुस्ती"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"प्रगत"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"थीम"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"विभाजित कीबोर्ड सुरू करा"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Google कीबोर्ड सिंक"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"सिंक चालू केले आहे"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"डिव्‍हाइसेस वरून तुमचा वैयक्तिक शब्दकोश संकालित करा"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"आता सिंक करा"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"क्लाउड डेटा हटवा"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"Google वरून तुमचा संकालित केलेला डेटा हटविते"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"तुमचा संकालित केलेला डेटा मेघवरून हटवला जाईल. आपल्‍याला खात्री आहे?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"हटवा"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"रद्द करा"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"तुमची वैयक्तिक डिरेक्टरी Google सर्व्हरवर सिंक केली जाईल आणि बॅकअप घेतला जाईल. आमचे उत्पादन सुधारित करण्यात मदत करण्यासाठी शब्दाच्या वारंवारतेची आकडेवारी माहिती गोळा केली जाऊ शकते. सर्व माहितीचे संकलन आणि वापर "<a href="https://www.google.com/policies/privacy">"Google चे गोपनीयता धोरण"</a>" शी सुसंगत असेल."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"या डीव्हाइसमध्ये हे वैशिष्ट्य सक्षम करण्यासाठी कृपया एक Google खाते जोडा"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Google Apps for Business खात्यांसह डिव्हाइसेससाठी सिंक उपलब्ध नाही"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"अन्य इनपुट पद्धतींवर स्विच करा"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"भाषा स्विच की अन्य इनपुट पद्धती देखील समाविष्ट करते"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"भाषा स्विच की"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"सेव्ह करण्यासाठी येथे टॅप करा"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"शब्दकोश उपलब्ध"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"कीबोर्ड थीम"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"खाती स्विच करा"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"कोणतीही खाती निवडली नाहीत"</string>
-    <string name="account_selected" msgid="2929764293361296224">"सध्‍या <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g> चा वापर करत आहे"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"ठीक आहे"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"रद्द करा"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"साइन आउट करा"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"वापरण्‍यासाठी एक खाते निवडा"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"इंग्रजी (यूके)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"इंग्रजी (यूएस)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"स्पॅनिश (यूएस)"</string>

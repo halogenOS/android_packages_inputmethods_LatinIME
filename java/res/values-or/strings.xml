@@ -34,8 +34,6 @@
     <skip />
     <!-- no translation found for settings_screen_preferences (2651344303433215540) -->
     <skip />
-    <!-- no translation found for settings_screen_accounts (6532292577269658674) -->
-    <skip />
     <!-- no translation found for settings_screen_appearance (5433429477750100471) -->
     <skip />
     <!-- no translation found for settings_screen_gesture (6549199069124022556) -->
@@ -47,30 +45,6 @@
     <!-- no translation found for settings_screen_theme (6744206826660778092) -->
     <skip />
     <!-- no translation found for enable_split_keyboard (7299522384075400050) -->
-    <skip />
-    <!-- no translation found for cloud_sync_title (2648120016215337960) -->
-    <skip />
-    <!-- no translation found for cloud_sync_summary (457868413134165923) -->
-    <skip />
-    <!-- no translation found for cloud_sync_summary_disabled (3437796499578155725) -->
-    <skip />
-    <!-- no translation found for sync_now_title (8083126086065968727) -->
-    <skip />
-    <!-- no translation found for clear_sync_data_title (2871211805506563252) -->
-    <skip />
-    <!-- no translation found for clear_sync_data_summary (2737229599235212381) -->
-    <skip />
-    <!-- no translation found for clear_sync_data_confirmation (6815059501949766995) -->
-    <skip />
-    <!-- no translation found for clear_sync_data_ok (1809712111627111859) -->
-    <skip />
-    <!-- no translation found for cloud_sync_cancel (3437544314029636750) -->
-    <skip />
-    <!-- no translation found for cloud_sync_opt_in_text (5443081647469720267) -->
-    <skip />
-    <!-- no translation found for add_account_to_enable_sync (1657487000451860348) -->
-    <skip />
-    <!-- no translation found for cloud_sync_summary_disabled_work_profile (4209488085168720952) -->
     <skip />
     <!-- no translation found for include_other_imes_in_language_switch_list (2523063290372613355) -->
     <skip />
@@ -166,20 +140,6 @@
     <!-- no translation found for has_dictionary (1325233223608273869) -->
     <skip />
     <!-- no translation found for keyboard_layout (1709024226955326813) -->
-    <skip />
-    <!-- no translation found for switch_accounts (1213242182459397913) -->
-    <skip />
-    <!-- no translation found for no_accounts_selected (5770301395973322552) -->
-    <skip />
-    <!-- no translation found for account_selected (2929764293361296224) -->
-    <skip />
-    <!-- no translation found for account_select_ok (2319402914890345072) -->
-    <skip />
-    <!-- no translation found for account_select_cancel (8877103220502603643) -->
-    <skip />
-    <!-- no translation found for account_select_sign_out (9208156165797411519) -->
-    <skip />
-    <!-- no translation found for account_select_title (5355659391942386459) -->
     <skip />
     <!-- no translation found for subtype_en_GB (7923165641611861624) -->
     <skip />

@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"Товч дарахад дуу гаргах"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"Товч дарахад попап гарна"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"Тохируулга"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"Хаяг &amp; Нууцлал"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"Харагдах байдал &amp; Зураглал"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"Зангаагаар бичих"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"Текст засварлах"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"Дэлгэрэнгүй"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"Загвар"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"Хуваагдмал гарыг идэвхжүүлэх"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Google-н гарны тохиргоо"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"Тохиргоо хийгдэх үйлдлийг идэвхжүүлсэн байна"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"Төхөөрөмжинд өөрийн хувийн толь бичгийг тохируулах"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"Одоо синк хийх"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"Cloud-ын мэдээллийг устгах"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"Таны синк хийсэн мэдээллийг Google-ээс устгана."</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"Таны мэдээллийг cloud-с устгах болно. Та итгэлтэй байна уу?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"Устгах"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"Цуцлах"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Таны хувийн толь бичгийг синк хийж, Google-ийн серверүүд дээр хадгалж авч үлдэнэ. Манай бүтээгдэхүүнүүдийг сайжруулахад туслах зорилгоор үгийн давтамжийн статистик мэдээллийг цуглуулж болно. Бүх мэдээллийг "<a href="https://www.google.com/policies/privacy">"Google-ийн Нууцлалын бодлогын дагуу"</a>" цуглуулж, ашиглана."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Энэ горимыг идэвхжүүлэхийн тулд энэ төхөөрөмж рүү Google бүртгэл нэмж оруулна уу"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Бизнес акаунтуудын Google Апп бүхий төхөөрөмжүүдэд синк хийх боломжгүй"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Оруулах өөр арга руу шилжүүлэх"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Хэл солих түлхүүрт өөр оруулах аргууд мөн багтсан байгаа"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"Хэл солих товч"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"Хадгалахын тулд энд товшино уу"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"Толь бичиг байна"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"Гарын загвар"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"Бүртгэл сэлгэх"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"Бүртгэл сонгогдоогүй"</string>
-    <string name="account_selected" msgid="2929764293361296224">"Одоо <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>-г ашиглаж байна"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"ТИЙМ"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"Цуцлах"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"Гарах"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"Ашиглах бүртгэлээ сонгоно уу"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"Англи (ИБ)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"Англи (АНУ)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"Испани (АНУ)"</string>
