@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"Sonar al pulsar tecla"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"Ampliar al pulsar tecla"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"Preferencias"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"Cuentas y privacidad"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"Aspecto y diseño"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"Escritura gestual"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"Corrección ortográfica"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"Ajustes avanzados"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"Tema"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"Habilitar teclado dividido"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Sincronización del Teclado de Google"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"Sincronización activada"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"Sincronizar el diccionario personal en diferentes dispositivos"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"Sincronizar"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"Eliminar datos de la nube"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"Elimina tus datos sincronizados de Google"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"Los datos sincronizados se eliminarán de la nube. ¿Continuar?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"Eliminar"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"Cancelar"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"El diccionario personal se sincroniza con los servidores de Google, donde se crea una copia de seguridad. Se puede recopilar información estadística sobre frecuencia de palabras para mejorar nuestros productos. Toda la información se recopila y se utiliza siguiendo las disposiciones de la "<a href="https://www.google.com/policies/privacy">"Política de Privacidad de Google"</a>"."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Añade una cuenta de Google al dispositivo para activar la función"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Sinc. no disponible en dispositivos con cuentas de Google Apps for Business"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Otros métodos de introducción"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"La tecla de cambio de idioma sirve también para otros métodos"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"Tecla para cambiar de idioma"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"Toca aquí para guardar"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"Hay un diccionario disponible"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"Tema de teclado"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"Cambiar de cuenta"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"Ninguna cuenta seleccionada"</string>
-    <string name="account_selected" msgid="2929764293361296224">"<xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g> actualmente en uso"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"Aceptar"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"Cancelar"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"Cerrar sesión"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"Selecciona la cuenta que quieras usar"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"inglés (Reino Unido)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"inglés (EE.UU.)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"Español (EE.UU.)"</string>

@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"কী টিপিলে শব্দ হ\'ব"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"কী টিপিলে প\'পআপ ওলাব"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"অগ্ৰাধিকাৰসমূহ"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"একাউণ্ট আৰু গোপনীয়তা"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"বাহ্যিক ৰূপ আৰু চানেকিসমূহ"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"আঙুলি পিছলাই টাইপ কৰাৰ সুবিধা"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"পাঠ শুধৰণি"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"উচ্চখাপৰ"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"থীম"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"বিভক্ত কীবর্ড সক্ষম কৰক"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Google কীব\'ৰ্ড ছিংক"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"ছিংক হৈ আছে"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"সকলো ডিভাইচত আপোনাৰ ব্যক্তিগত অভিধান ছিংক কৰক"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"এতিয়া ছিংক কৰক"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"ক্লাউড ডেটা মচক"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"আপোনাৰ ছিংক কৰা ডেটাসমূহ Googleৰ পৰা মচে"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"আপোনাৰ ক্লাউডৰ পৰা ছিংক কৰা ডেটাসমূহ মচা হ\'ব। আপুনি নিশ্চিতনে?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"মচক"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"বাতিল কৰক"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"আপোনাৰ ব্যক্তিগত অভিধান ছিংক কৰা হ\'ব আৰু Google ছার্ভাৰত বেক আপ লোৱা হ\'ব।শব্দৰ সঘনতা পৰিসংখ্যাৰ তথ্য আমাৰ সামগ্ৰীসমূহ উন্নত কৰাত সহায় কৰিবলৈ সংগ্ৰহ কৰা হ\'ব পাৰে। সংগ্ৰহ আৰু ব্যৱহাৰ কৰা সকলো তথ্যৰ বাবে "<a href="https://www.google.com/policies/privacy">"Googleৰ ব্যক্তিগত নীতি"</a>" মনা হ\'ব।"</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"এই সুবিধা সক্ষম কৰিবলৈ ডিভাইচত এটা Google একাউণ্ট যোগ কৰক"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"ব্যৱসায় একাউণ্টসমূহৰ বাবে ব্যৱহাৰ কৰা Google এপসমূহৰ ডিভাইচবোৰৰ বাবে ছিংক উপলব্ধ নহয়"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"আন ইনপুট পদ্ধতিলৈ সলনি কৰক"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"ভাষা সলনি কৰা কীটোৱে আন ইনপুট পদ্ধতিসমূহকো সামৰি লয়"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"ভাষা সলনি কৰা কী"</string>
@@ -98,13 +85,6 @@
     <skip />
     <string name="has_dictionary" msgid="1325233223608273869">"অভিধান উপলব্ধ"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"কীব\'ৰ্ড থীম"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"একাউণ্ট সলনি কৰক"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"কোনো একাউণ্ট বাছনি কৰা হোৱা নাই"</string>
-    <string name="account_selected" msgid="2929764293361296224">"<xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g> বর্তমান ব্যৱহাৰ কৰি থকা হৈছে"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"ঠিক আছে"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"বাতিল কৰক"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"ছাইন আউট কৰক"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"ব্যৱহাৰ কৰিবৰ বাবে এটা একাউণ্ট বাছনি কৰক"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"ইংৰাজী (ইউ. কে.)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"ইংৰাজী (ইউ. এছ.)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"স্পেনিশ্ব (ইউ. এছ.)"</string>
