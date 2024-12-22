@@ -54,7 +54,7 @@ import javax.annotation.Nullable;
 
 /**
  * Facilitates interaction with different kinds of dictionaries. Provides APIs
- * to instantiate and select the correct dictionaries (based on language or account),
+ * to instantiate and select the correct dictionaries (based on language),
  * update entries and fetch suggestions.
  *
  * Currently AndroidSpellCheckerService and LatinIME both use DictionaryFacilitator as
@@ -102,15 +102,6 @@ public class DictionaryFacilitatorImpl implements DictionaryFacilitator {
     @Override
     public boolean isForLocale(final Locale locale) {
         return locale != null && locale.equals(mDictionaryGroup.mLocale);
-    }
-
-    /**
-     * Returns whether this facilitator is exactly for this account.
-     *
-     * @param account the account to test against.
-     */
-    public boolean isForAccount(@Nullable final String account) {
-        return TextUtils.equals(mDictionaryGroup.mAccount, account);
     }
 
     /**
@@ -282,7 +273,6 @@ public class DictionaryFacilitatorImpl implements DictionaryFacilitator {
             final boolean useContactsDict,
             final boolean usePersonalizedDicts,
             final boolean forceReloadMainDictionary,
-            @Nullable final String account,
             final String dictNamePrefix,
             @Nullable final DictionaryInitializationListener listener) {
         final HashMap<Locale, ArrayList<String>> existingDictionariesToCleanup = new HashMap<>();
@@ -307,11 +297,11 @@ public class DictionaryFacilitatorImpl implements DictionaryFacilitator {
                 findDictionaryGroupWithLocale(mDictionaryGroup, newLocale);
         if (currentDictionaryGroupForLocale != null) {
             for (final String dictType : DYNAMIC_DICTIONARY_TYPES) {
-                if (currentDictionaryGroupForLocale.hasDict(dictType, account)) {
+                if (currentDictionaryGroupForLocale.hasDict(dictType, null)) {
                     dictTypeForLocale.add(dictType);
                 }
             }
-            if (currentDictionaryGroupForLocale.hasDict(Dictionary.TYPE_MAIN, account)) {
+            if (currentDictionaryGroupForLocale.hasDict(Dictionary.TYPE_MAIN, null)) {
                 dictTypeForLocale.add(Dictionary.TYPE_MAIN);
             }
         }
@@ -324,7 +314,7 @@ public class DictionaryFacilitatorImpl implements DictionaryFacilitator {
 
         final Dictionary mainDict;
         if (forceReloadMainDictionary || noExistingDictsForThisLocale
-                || !dictionaryGroupForLocale.hasDict(Dictionary.TYPE_MAIN, account)) {
+                || !dictionaryGroupForLocale.hasDict(Dictionary.TYPE_MAIN, null)) {
             mainDict = null;
         } else {
             mainDict = dictionaryGroupForLocale.getDict(Dictionary.TYPE_MAIN);
@@ -335,10 +325,10 @@ public class DictionaryFacilitatorImpl implements DictionaryFacilitator {
         for (final String subDictType : subDictTypesToUse) {
             final ExpandableBinaryDictionary subDict;
             if (noExistingDictsForThisLocale
-                    || !dictionaryGroupForLocale.hasDict(subDictType, account)) {
+                    || !dictionaryGroupForLocale.hasDict(subDictType, null)) {
                 // Create a new dictionary.
                 subDict = getSubDict(subDictType, context, newLocale, null /* dictFile */,
-                        dictNamePrefix, account);
+                        dictNamePrefix, null);
             } else {
                 // Reuse the existing dictionary, and don't close it at the end
                 subDict = dictionaryGroupForLocale.getSubDict(subDictType);
@@ -347,7 +337,7 @@ public class DictionaryFacilitatorImpl implements DictionaryFacilitator {
             subDicts.put(subDictType, subDict);
         }
         DictionaryGroup newDictionaryGroup =
-                new DictionaryGroup(newLocale, mainDict, account, subDicts);
+                new DictionaryGroup(newLocale, mainDict, null, subDicts);
 
         // Replace Dictionaries.
         final DictionaryGroup oldDictionaryGroup;
@@ -420,8 +410,7 @@ public class DictionaryFacilitatorImpl implements DictionaryFacilitator {
     @UsedForTesting
     public void resetDictionariesForTesting(final Context context, final Locale locale,
             final ArrayList<String> dictionaryTypes, final HashMap<String, File> dictionaryFiles,
-            final Map<String, Map<String, String>> additionalDictAttributes,
-            @Nullable final String account) {
+            final Map<String, Map<String, String>> additionalDictAttributes) {
         Dictionary mainDictionary = null;
         final Map<String, ExpandableBinaryDictionary> subDicts = new HashMap<>();
 
@@ -432,7 +421,7 @@ public class DictionaryFacilitatorImpl implements DictionaryFacilitator {
             } else {
                 final File dictFile = dictionaryFiles.get(dictType);
                 final ExpandableBinaryDictionary dict = getSubDict(
-                        dictType, context, locale, dictFile, "" /* dictNamePrefix */, account);
+                        dictType, context, locale, dictFile, "" /* dictNamePrefix */, null);
                 if (additionalDictAttributes.containsKey(dictType)) {
                     dict.clearAndFlushDictionaryWithAdditionalAttributes(
                             additionalDictAttributes.get(dictType));
@@ -445,7 +434,7 @@ public class DictionaryFacilitatorImpl implements DictionaryFacilitator {
                 subDicts.put(dictType, dict);
             }
         }
-        mDictionaryGroup = new DictionaryGroup(locale, mainDictionary, account, subDicts);
+        mDictionaryGroup = new DictionaryGroup(locale, mainDictionary, null, subDicts);
     }
 
     public void closeDictionaries() {

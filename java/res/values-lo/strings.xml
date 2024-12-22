@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"ສຽງໃນການກົດປຸ່ມ"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"ໂຕອັກສອນເວລາພິມ"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"​​ການ​ຕັ້ງ​ຄ່າ"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"ບັນຊີ ແລະ ຄວາມເປັນສ່ວນຕົວ"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"​ລັກ​ສະ​ນະ &amp; ໂຄງ​ຮ່າງ"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"​ກາ​ນ​ພິມ​ແບບ​ລາກ​ນິ້ວ"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"​ການ​ແປງ​ຄຳ​ໃຫ້​ຖືກ​ຕ້ອງ"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"​ຂັ້ນ​ສູງ"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"ຮູບແບບສີສັນ"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"ເປີດ​ນຳ​ໃຊ້​ແປ້ນ​ພິມ​ແຍກ​ຕົວ"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"ການ​ຊິງ​ຄ໌​ແປ້ນ​ພິມ Google"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"ຊິງ​ຄ໌​ເປ​ີດ​ແລ້ວ"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"ຊິງ​ຄ໌​ພົດ​ຈະ​ນາ​ນຸ​ກົມ​ສ່ວນ​ຕົວ​ຂອງ​ທ່ານ​ໃນ​ທຸກ​ອຸ​ປະ​ກອນ"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"ຊິງ​ຄ໌ດຽວນີ້"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"ລຶບ​ຂໍ້​ມູນ​ຄ​ລາວ"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"ລຶບ​ຂໍ້​ມູນ​ທີ່​ຊິງ​ຄ໌​ແລ້ວ​ຂອງ​ທ່ານ​ຈາກ Google"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"ຂໍ້​ມູນ​ທີ່​ຊິງ​ຄ໌​ແລ້ວ​ຂອງ​ທ່ານ​ຈະ​ຖືກ​ລຶບ​ໄປ​ຈາກ​ຄ​ລາວ. ທ່ານ​ແນ່​ໃຈ​ບໍ?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"ລຶບ"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"ຍົກເລີກ"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"ພົດ​ຈະ​ນາ​ນຸ​ກົມ​ສ່ວນ​ຕົວ​ຂອງ​ທ່ານ​ຈະ​ຖືກ​ຊິງ​ຄ໌ ແລະ​ສຳ​ຮອງ​ໄປ​ໃສ່​ເຊີບ​ເວີ Google. ຂໍ້​ມູນ​ສະ​ຖິ​ຕິ​ຂອງ​ຄວາມ​ຖີ່​ຄຳ​ເວົ້າ​ອາດ​ຈະ​ຖືກ​ເກັບ​ກຳ ເພື່ອ​ຊ່ວຍ​ປັບ​ປຸງ​ຜະ​ລິດ​ຕະ​ພັນ​ຂອງ​ທ່ານ. ການ​ເກັບ​ກຳ ແລະ​ການ​ນຳ​ໃຊ້​ທຸກ​ຂໍ້​ມູນ​ຈະ​ເປັນ​ໄປ​ຕາມ "<a href="https://www.google.com/policies/privacy">"ນະ​ໂຍ​ບາຍ​ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ​ຂອງ Googl"</a>"."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"ກະ​ລຸ​ນາ​ເພີ່ມ​ບັນ​ຊີ Google ໃສ່​ອຸ​ປະ​ກອນ​ນີ້ ເພື່ອ​ເປີດ​ໃຊ້​ງານ​ຄຸນ​ສົມ​ບັດ​ນີ້"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"ບໍ່​ມີ​ການ​ຊິງ​ຄ໌​ໃຫ້​ສຳ​ລັບ​ອຸ​ປະ​ກອນ​ທີ່​ມີ Google Apps ສຳ​ລັບ​ບັນ​ຊີ Business"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"ປ່ຽນໄປໃຊ້ການປ້ອນຂໍ້ມູນແບບອື່ນ"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"ໂຕປ່ຽນພາສາເປັນທັງໂຕປ່ຽນຮູບແບບການປ້ອນຂໍ້ມູນເຊັ່ນກັນ"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"ປຸ່ມປ່ຽນພາສາ"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"ແຕະບ່ອນນີ້ເພື່ອບັນທຶກ"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"ມີວັດຈະນານຸກົມ"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"ສີສັນແປ້ນພິມ"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"ສະລັບບັນຊີ"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"​ບໍ່​ໄດ້​ເລືອກ​ບັນ​ຊີ​ເທື່ອ"</string>
-    <string name="account_selected" msgid="2929764293361296224">"ຕອນ​ນີ້​ກຳ​ລັງ​ໃຊ້ <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"ຕົກລົງ"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"​ຍົກ​ເລີກ"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"ອອກຈາກລະບົບ"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"​ເລືອກ​ບັນ​ຊີ​ທີ່​ຈະ​ໃຊ້"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"ອັງກິດ (ສະຫະລາດຊະອານາຈັກ)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"ອັງກິດ (ສະຫະລັດຯ)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"ສະເປນ (ອາເມລິກາ)"</string>
