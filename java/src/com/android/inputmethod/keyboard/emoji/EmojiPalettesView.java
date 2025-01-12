@@ -487,7 +487,7 @@ public final class EmojiPalettesView extends LinearLayout implements OnTabChange
         }
 
         private void onTouchCanceled(final View v) {
-            v.setBackgroundColor(Color.TRANSPARENT);
+            v.setPressed(false /* pressed */);
         }
 
         private void onClick() {
