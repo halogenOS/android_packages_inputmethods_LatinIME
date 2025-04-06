@@ -58,10 +58,7 @@ public class UserHistoryDictionary extends ExpandableBinaryDictionary {
     @UsedForTesting
     static String getUserHistoryDictName(final String name, final Locale locale,
             @Nullable final File dictFile, @Nullable final String account) {
-        if (!ProductionFlags.ENABLE_PER_ACCOUNT_USER_HISTORY_DICTIONARY) {
-            return getDictName(name, locale, dictFile);
-        }
-        return getUserHistoryDictNamePerAccount(name, locale, dictFile, account);
+        return getDictName(name, locale, dictFile);
     }
 
     /**

@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"কীপ্রেস এর সময়ের শব্দ"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"কীপ্রেস এর ফলে পপআপ"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"পছন্দসমূহ"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"অ্যাকাউন্টগুলি ও গোপনীয়তা"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"চেহারা ও লে-আউট"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"অঙ্গভঙ্গির মাধ্যমে টাইপিং"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"পাঠ্য সংশোধন"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"উন্নত"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"থিম"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"বিভক্ত কীবোর্ড সক্ষম করুন"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Google কীবোর্ড সিঙ্ক"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"সিঙ্ক চালু করা হয়েছে"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"ডিভাইস জুড়ে আপনার ব্যক্তিগত অভিধান সিঙ্ক করুন"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"এখন সিঙ্ক করুন"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"ক্লাউড ডেটা মুছুন"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"Google থেকে আপনার সিঙ্ক করা ডেটা মুছে ফেলে"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"আপনার সিঙ্ক করা ডেটা ক্লাউড থেকে মুছে ফেলার ব্যাপারে আপনি কি নিশ্চিত?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"মুছুন"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"বাতিল"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"আপনার ব্যক্তিগত অভিধান Google সার্ভারগুলিতে সিঙ্ক এবং ব্যাক-আপ নেওয়া হবে৷ শব্দ ফ্রিকোয়েন্সির পরিসংখ্যানগত তথ্য আমাদের প্রোডাক্টের উন্নতিতে সাহায্যের জন্য সংগ্রহ করা হতে পারে৷ এই সংগ্রহ এবং সমস্ত তথ্যের ব্যবহার "<a href="https://www.google.com/policies/privacy">" এর গোপনীয়তা নীতি"</a>"-র সাথে সঙ্গতিশীল হবে৷"</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"এই বৈশিষ্ট্যটি সক্ষম করার জন্য অনুগ্রহ করে এই ডিভাইসে একটি Google অ্যাকাউন্ট যোগ করুন"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"ব্যবসা অ্যাকাউন্টগুলির জন্য Google Apps এর সাথে ডিভাইসগুলির জন্য সিঙ্ক অনুপলব্ধ"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"অন্য ইনপুট পদ্ধতিতে স্যুইচ করুন"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"ভাষা স্যুইচ কীতে অন্যান্য ইনপুট পদ্ধতি পাওয়া যায়"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"ভাষা স্যুইচ কী"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"সংরক্ষণ করতে এখানে আলতো চাপুন"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"অভিধান উপলব্ধ"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"কীবোর্ড থিম"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"অ্যাকাউন্ট পাল্টান"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"কোন অ্যাকাউন্ট নির্বাচন করা হয়নি"</string>
-    <string name="account_selected" msgid="2929764293361296224">"বর্তমানে <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g> ব্যবহার করা হচ্ছে"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"ঠিক আছে"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"বাতিল করুন"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"সাইন-আউট করুন"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"ব্যবহার করার জন্য একটি অ্যাকাউন্ট বাছুন"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"ইংরেজি (UK)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"ইংরেজি (US)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"স্প্যানিশ (US)"</string>
