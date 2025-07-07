@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"Tumunog sa keypress"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"Mag-popup sa keypress"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"Mga Kagustuhan"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"Mga Account at Privacy"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"Hitsura at Mga Layout"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"Gesture na Pagta-type"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"Pagwawasto ng text"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"Advanced"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"Tema"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"I-enable ang split keyboard"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Pag-sync ng Google Keyboard"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"Naka-on ang pag-sync"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"I-sync ang iyong personal na diksyunaryo sa mga device"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"I-sync ngayon"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"I-delete ang cloud data"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"Dine-delete ang iyong naka-sync na data sa Google"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"Idi-delete sa cloud ang iyong na-sync na data. Sigurado ka ba?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"I-delete"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"Kanselahin"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Masi-sync at maba-back up ang iyong personal na dictionary sa mga server ng Google. Maaaring kolektahin ang istatistikal na impormasyon ng dalas ng salita upang makatulong na pahusayin ang aming mga produkto. Susunod ang pagkolekta at paggamit ng lahat ng impormasyon sa "<a href="https://www.google.com/policies/privacy">"Patakaran sa Privacy ng Google"</a>"."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Mangyaring magdagdag ng Google account sa device na ito upang i-enable ang feature na ito"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Pag-sync, hindi available sa device na may Google Apps for Business account"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Lipat iba paraan ng input"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Saklaw din ng key ng pagpalit ng wika ang ibang paraan ng input"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"Key ng panlipat ng wika"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"Mag-tap dito upang i-save"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"Available ang diksyunaryo"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"Tema ng keyboard"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"Lumipat ng account"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"Walang mga account na pinili"</string>
-    <string name="account_selected" msgid="2929764293361296224">"Kasalukuyang ginagamit ang <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"OK"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"Kanselahin"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"Mag-sign out"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"Pumili ng account na gagamitin"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"English (UK)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"English (United States)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"Spanish (US)"</string>

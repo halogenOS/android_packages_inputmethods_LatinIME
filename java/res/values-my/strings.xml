@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"ခလုတ်နှိပ်လျှင် အသံမြည်"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"ခလုတ်နှိပ်လိုက်သည်နှင့် ပေါ်လာရန်"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"ရွေးချယ်စရာများ"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"အကောင့်များ &amp; ကိုယ်ပိုင်ကိစ္စ"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"ပုံပန်းသွင်ပြင် &amp; အပြင်အဆင်များ"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"လှုပ်ရှားမှုဖြင့်စာရိုက်ခြင်း"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"စာအမှားပြပြင်ခြင်း"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"အဆင့်မြင့်"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"အပြင်အဆင်"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"ကီးဘုတ် ခွဲခြမ်းမှု ဖွင့်ထားရန်"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Google Keyboard စင့်လုပ်ရန်"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"စင့် ဖွင့်ထားသည်"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"သင့် ကိုယ်ပိုင်သုံး အဘိဓာန်အား စက်များအားလုံးတွင် စင့်လုပ်ရန်"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"ထပ်တူညီအောင် ယခုပြုလုပ်နေပါပြီ…"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"Cloud ဒေတာ ဖျက်ရန်"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"သင်၏ စင့်က် လုပ်ပြီးသား ဒေတာ Google ထဲမှ ဖျက်ခံရမည်။"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"သင့် စင့်လုပ်ထားသော ဒေတာများအား cloud မှ ဖျက်လိမ့်မည်။ သေချာသလား?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"ဖျက်ရန်"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"မလုပ်တော့"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"သင့်ရဲ့ကိုယ်ပိုင်အဘိဓါန်ကို Google server များမှာ ထပ်တူညီအောင်လုပ် ပြီး မူလပုံစံ ပြန်သွားမည်။ အိုင်တီထုတ်ကုန်များ တိုးတက်မှုရှိအောင် စာလုံးရေ ကောက်ယူမှု အချက်အလက်ကို စုစည်းပါသည်။ အဆိုပါအချက်အလက်စုယူ သုံးစွဲမှုကို "<a href="https://www.google.com/policies/privacy">" Google၏မိမိအတွင်းရေးသီးသန့် မူဝါဒ "</a>" ဖြင့် စောဒကတက် နိုင်သည်။"</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"ဒီအင်္ဂါရပ်တွေကို ရဖို့ဒီစက်မှာ Google account တစ်ခုကို ဖွင့်ပါ"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"စီးပွားရေးအကောင့်များအတွက် Google အပ်ဖ်များဖြင့် စက်ပစ္စည်းများတွင် ထပ်တူပြုခြင်း မရနိုင်ပါ"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"အခြားထည့်သွင်းမည့် နည်းလမ်းများသို့ ပြောင်းရန်"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"ဘာသာပြောင်းသည့် ကီးသည် အခြားထည့်သွင်းရန် နည်းလမ်းများလည်း ပါဝင်သည်"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"ဘာသာစကား ပြောင်းခလုတ်"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"သိမ်းရန် ဤနေရာတွင် တို့ပါ"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"အဘိဓါန်ရနိုင်"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"ကီးဘုတ်အရောင်"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"အကောင့်များကို ပြောင်းရန်"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"အကောင့်များ မရွေးရသေးပါ"</string>
-    <string name="account_selected" msgid="2929764293361296224">"<xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>အား လတ်တလော သုံးန​ေ၏"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"OK"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"မလုပ်တော့"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"ထွက်ရန်"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"သုံးမည့်အကောင့်ကို ရွေးရန်"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"အင်္ဂလိပ်(ယူကေ)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"အင်္ဂလိပ် (ယူအက်စ်)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"စပိန် (ယူအက်စ်)"</string>

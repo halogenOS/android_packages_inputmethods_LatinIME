@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2013 The Android Open Source Project
+ * Copyright (C) 2023-2025 The LineageOS Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -22,8 +23,10 @@ import android.content.Context;
 import android.content.res.Resources;
 import android.content.res.TypedArray;
 import android.graphics.Color;
+import android.os.Handler;
+import android.os.Looper;
 import android.preference.PreferenceManager;
-import androidx.viewpager.widget.ViewPager;
+import androidx.viewpager2.widget.ViewPager2;
 import android.util.AttributeSet;
 import android.util.Pair;
 import android.util.TypedValue;
@@ -63,8 +66,7 @@ import com.android.inputmethod.latin.utils.ResourceUtils;
  * Because of the above reasons, this class doesn't extend {@link KeyboardView}.
  */
 public final class EmojiPalettesView extends LinearLayout implements OnTabChangeListener,
-        ViewPager.OnPageChangeListener, View.OnClickListener, View.OnTouchListener,
-        EmojiPageKeyboardView.OnKeyEventListener {
+        View.OnClickListener, View.OnTouchListener, EmojiPageKeyboardView.OnKeyEventListener {
     private final int mFunctionalKeyBackgroundId;
     private final int mSpacebarBackgroundId;
     private final boolean mCategoryIndicatorEnabled;
@@ -83,7 +85,7 @@ public final class EmojiPalettesView extends LinearLayout implements OnTabChange
     // TODO: Remove this workaround.
     private View mSpacebarIcon;
     private TabHost mTabHost;
-    private ViewPager mEmojiPager;
+    private ViewPager2 mEmojiPager;
     private int mCurrentPagerPosition = 0;
     private EmojiCategoryPageIndicatorView mEmojiCategoryPageIndicatorView;
 
@@ -181,10 +183,50 @@ public final class EmojiPalettesView extends LinearLayout implements OnTabChange
 
         mEmojiPalettesAdapter = new EmojiPalettesAdapter(mEmojiCategory, this);
 
-        mEmojiPager = (ViewPager)findViewById(R.id.emoji_keyboard_pager);
+        mEmojiPager = findViewById(R.id.emoji_keyboard_pager);
         mEmojiPager.setAdapter(mEmojiPalettesAdapter);
-        mEmojiPager.setOnPageChangeListener(this);
-        mEmojiPager.setOffscreenPageLimit(0);
+
+        mEmojiPager.registerOnPageChangeCallback(new ViewPager2.OnPageChangeCallback() {
+            @Override
+            public void onPageSelected(int position) {
+                final Pair<Integer, Integer> newPos =
+                        mEmojiCategory.getCategoryIdAndPageIdFromPagePosition(position);
+                setCurrentCategoryId(newPos.first /* categoryId */, false /* force */);
+                mEmojiCategory.setCurrentCategoryPageId(newPos.second /* categoryPageId */);
+                updateEmojiCategoryPageIdView();
+                mCurrentPagerPosition = position;
+            }
+
+            @Override
+            public void onPageScrollStateChanged(int state) {
+                // Ignore this message. Only want the actual page selected.
+            }
+
+            @Override
+            public void onPageScrolled(int position, float positionOffset,
+                                       int positionOffsetPixels) {
+                mEmojiPalettesAdapter.onPageScrolled();
+                final Pair<Integer, Integer> newPos =
+                        mEmojiCategory.getCategoryIdAndPageIdFromPagePosition(position);
+                final int newCategoryId = newPos.first;
+                final int newCategorySize = mEmojiCategory.getCategoryPageSize(newCategoryId);
+                final int currentCategoryId = mEmojiCategory.getCurrentCategoryId();
+                final int currentCategoryPageId = mEmojiCategory.getCurrentCategoryPageId();
+                final int currentCategorySize = mEmojiCategory.getCurrentCategoryPageSize();
+                if (newCategoryId == currentCategoryId) {
+                    mEmojiCategoryPageIndicatorView.setCategoryPageId(
+                            newCategorySize, newPos.second, positionOffset);
+                } else if (newCategoryId > currentCategoryId) {
+                    mEmojiCategoryPageIndicatorView.setCategoryPageId(
+                            currentCategorySize, currentCategoryPageId, positionOffset);
+                } else if (newCategoryId < currentCategoryId) {
+                    mEmojiCategoryPageIndicatorView.setCategoryPageId(
+                            currentCategorySize, currentCategoryPageId, positionOffset - 1);
+                }
+            }
+        });
+        mEmojiPager.setOffscreenPageLimit(ViewPager2.OFFSCREEN_PAGE_LIMIT_DEFAULT);
+
         mEmojiPager.setPersistentDrawingCache(PERSISTENT_NO_CACHE);
         mEmojiLayoutParams.setPagerProperties(mEmojiPager);
 
@@ -246,44 +288,6 @@ public final class EmojiPalettesView extends LinearLayout implements OnTabChange
         final int categoryId = mEmojiCategory.getCategoryId(tabId);
         setCurrentCategoryId(categoryId, false /* force */);
         updateEmojiCategoryPageIdView();
-    }
-
-    @Override
-    public void onPageSelected(final int position) {
-        final Pair<Integer, Integer> newPos =
-                mEmojiCategory.getCategoryIdAndPageIdFromPagePosition(position);
-        setCurrentCategoryId(newPos.first /* categoryId */, false /* force */);
-        mEmojiCategory.setCurrentCategoryPageId(newPos.second /* categoryPageId */);
-        updateEmojiCategoryPageIdView();
-        mCurrentPagerPosition = position;
-    }
-
-    @Override
-    public void onPageScrollStateChanged(final int state) {
-        // Ignore this message. Only want the actual page selected.
-    }
-
-    @Override
-    public void onPageScrolled(final int position, final float positionOffset,
-                               final int positionOffsetPixels) {
-        mEmojiPalettesAdapter.onPageScrolled();
-        final Pair<Integer, Integer> newPos =
-                mEmojiCategory.getCategoryIdAndPageIdFromPagePosition(position);
-        final int newCategoryId = newPos.first;
-        final int newCategorySize = mEmojiCategory.getCategoryPageSize(newCategoryId);
-        final int currentCategoryId = mEmojiCategory.getCurrentCategoryId();
-        final int currentCategoryPageId = mEmojiCategory.getCurrentCategoryPageId();
-        final int currentCategorySize = mEmojiCategory.getCurrentCategoryPageSize();
-        if (newCategoryId == currentCategoryId) {
-            mEmojiCategoryPageIndicatorView.setCategoryPageId(
-                    newCategorySize, newPos.second, positionOffset);
-        } else if (newCategoryId > currentCategoryId) {
-            mEmojiCategoryPageIndicatorView.setCategoryPageId(
-                    currentCategorySize, currentCategoryPageId, positionOffset);
-        } else if (newCategoryId < currentCategoryId) {
-            mEmojiCategoryPageIndicatorView.setCategoryPageId(
-                    currentCategorySize, currentCategoryPageId, positionOffset - 1);
-        }
     }
 
     /**
@@ -437,8 +441,20 @@ public final class EmojiPalettesView extends LinearLayout implements OnTabChange
     }
 
     private static class DeleteKeyOnTouchListener implements OnTouchListener {
+        private static final int INITIAL_DELAY = 400;
+        private static final int REPEAT_DELAY = 100;
+
         private KeyboardActionListener mKeyboardActionListener =
                 KeyboardActionListener.EMPTY_LISTENER;
+
+        private final Handler mRepeatHandler = new Handler(Looper.getMainLooper());
+        private final Runnable mRepeatRunnable = new Runnable() {
+            @Override
+            public void run() {
+                mRepeatHandler.postDelayed(this, REPEAT_DELAY);
+                onClick();
+            }
+        };
 
         public void setKeyboardActionListener(final KeyboardActionListener listener) {
             mKeyboardActionListener = listener;
@@ -448,39 +464,39 @@ public final class EmojiPalettesView extends LinearLayout implements OnTabChange
         public boolean onTouch(final View v, final MotionEvent event) {
             switch (event.getActionMasked()) {
                 case MotionEvent.ACTION_DOWN:
-                    onTouchDown(v);
+                    mRepeatHandler.removeCallbacks(mRepeatRunnable);
+                    mRepeatHandler.postDelayed(mRepeatRunnable, INITIAL_DELAY);
+                    v.setPressed(true /* pressed */);
+                    onClick();
                     return true;
                 case MotionEvent.ACTION_MOVE:
                     final float x = event.getX();
                     final float y = event.getY();
                     if (x < 0.0f || v.getWidth() < x || y < 0.0f || v.getHeight() < y) {
                         // Stop generating key events once the finger moves away from the view area.
+                        mRepeatHandler.removeCallbacks(mRepeatRunnable);
                         onTouchCanceled(v);
                     }
                     return true;
                 case MotionEvent.ACTION_CANCEL:
                 case MotionEvent.ACTION_UP:
-                    onTouchUp(v);
+                    mRepeatHandler.removeCallbacks(mRepeatRunnable);
+                    v.setPressed(false /* pressed */);
                     return true;
             }
             return false;
         }
 
-        private void onTouchDown(final View v) {
-            mKeyboardActionListener.onPressKey(Constants.CODE_DELETE,
-                    0 /* repeatCount */, true /* isSinglePointer */);
-            v.setPressed(true /* pressed */);
-        }
-
-        private void onTouchUp(final View v) {
-            mKeyboardActionListener.onCodeInput(Constants.CODE_DELETE,
-                    NOT_A_COORDINATE, NOT_A_COORDINATE, false /* isKeyRepeat */);
-            mKeyboardActionListener.onReleaseKey(Constants.CODE_DELETE, false /* withSliding */);
+        private void onTouchCanceled(final View v) {
             v.setPressed(false /* pressed */);
         }
 
-        private void onTouchCanceled(final View v) {
-            v.setBackgroundColor(Color.TRANSPARENT);
+        private void onClick() {
+            mKeyboardActionListener.onPressKey(Constants.CODE_DELETE,
+                    0 /* repeatCount */, true /* isSinglePointer */);
+            mKeyboardActionListener.onCodeInput(Constants.CODE_DELETE,
+                    NOT_A_COORDINATE, NOT_A_COORDINATE, false /* isKeyRepeat */);
+            mKeyboardActionListener.onReleaseKey(Constants.CODE_DELETE, false /* withSliding */);
         }
     }
 }

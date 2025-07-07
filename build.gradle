@@ -24,8 +24,8 @@ android {
     useLibrary 'android.test.mock'
 
     defaultConfig {
-        minSdkVersion 21
-        targetSdkVersion 28
+        minSdkVersion 30
+        targetSdkVersion 34
         versionName "1.0"
 
         applicationId 'com.android.inputmethod.latin'
