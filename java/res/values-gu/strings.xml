@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"કીપ્રેસ પર ધ્વનિ"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"કીપ્રેસ પર પોપઅપ"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"પસંદગી"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"એકાઉન્ટ્સ અને ગોપનીયતા"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"દેખાવ અને લેઆઉટ્સ"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"સાંકેતિક ટાઇપિંગ"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"ટેક્સ્ટ સુધારણા"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"વિગતવાર"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"થીમ"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"વિભાજિત કીબોર્ડ સક્ષમ કરો"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Google કીબોર્ડ સમન્વયન"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"સમન્વયન ચાલુ કરેલ છે"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"સમગ્ર ઉપકરણો પર તમારા વ્યક્તિગત શબ્દકોશને સિંક કરો"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"હમણા સમન્વયન"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"મેઘ ડેટા કાઢી નાખો"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"Google માંથી તમારો સમન્વયિત ડેટા કાઢી નાખે છે"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"મેઘમાંથી તમારો સમન્વયિત ડેટા કાઢી નાખવામાં આવશે. શું તમે ખરેખર આ કરવા માંગો છો?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"કાઢી નાખો"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"રદ કરો"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"તમારો વ્યક્તિગત શબ્દકોશનો Google સર્વર્સ પર બેક અપ લેવાશે અને સમન્વયિત કરવામાં આવશે. અમારા ઉત્પાદનોને બહેતર બનાવવામાં સહાય માટે શબ્દ આવૃત્તિની આંકડાકીય માહિતી ભેગી કરવામાં આવી શકે છે. બધી માહિતીનો સંગ્રહ અને ઉપયોગ "<a href="https://www.google.com/policies/privacy">"Google ની ગોપનીયતા નીતિ"</a>"ની સાથે સુસંગત હશે."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"કૃપા કરીને આ સુવિધા સક્ષમ કરવા માટે આ ઉપકરણ પર Google એકાઉન્ટ ઉમેરો"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"વ્યવસાય એકાઉન્ટ્સ માટે Google Apps સાથેના ઉપકરણો માટે સમન્વયન ઉપલબ્ધ નથી"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"અન્ય ઇનપુટ પદ્ધતિઓ પર સ્વિચ કરો"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"ભાષા સ્વિચ કી અન્ય ઇનપુટ પદ્ધતિઓને પણ આવરે છે"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"ભાષા સ્વિચ કી"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"સાચવવા માટે અહીં ટૅપ કરો"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"શબ્દકોશ ઉપલબ્ધ છે"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"કીબોર્ડ થીમ"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"એકાઉન્ટ્સ સ્વિચ કરો"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"કોઈ એકાઉન્ટ પસંદ કરેલ નથી"</string>
-    <string name="account_selected" msgid="2929764293361296224">"હાલમાં <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g> વાપરી રહ્યાં છે"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"ઓકે"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"રદ કરો"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"સાઇન આઉટ કરો"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"વાપરવા માટે એક એકાઉન્ટ પસંદ કરો"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"અંગ્રેજી (યુકે)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"અંગ્રેજી (યુ એસ)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"સ્પેનિશ (US)"</string>
