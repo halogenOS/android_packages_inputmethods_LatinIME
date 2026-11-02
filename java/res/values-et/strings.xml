@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"Heli klahvivajutusel"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"Klahvivajutusel kuva hüpik"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"Eelistused"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"Kontod ja privaatsus"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"Välimus ja paigutused"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"Joonistusega sisestamine"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"Teksti korrigeerimine"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"Täpsemad"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"Teema"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"Luba kaheks jaotatud klaviatuur"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Sünkrooni Google\'i klaviatuur"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"Sünkroonimine on sisse lülitatud"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"Isikliku kataloogi sünkroonimine kõigis seadmetes"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"Sünkrooni kohe"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"Pilveandmete kustutamine"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"Kustutab sünkroonitud andmed Google\'ist"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"Teie sünkroonitud andmed kustutatakse pilvest. Kas olete kindel?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"Kustuta"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"Tühista"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Teie isiklik sõnastik sünkroonitakse ja varundatakse Google\'i serveritesse. Meie toodete parandamiseks võidakse koguda sõna esinemissageduse statistikat. Kogu teabe kogumine ja kasutamine toimub "<a href="https://www.google.com/policies/privacy">"Google\'i privaatsuseeskirjade"</a>" järgi."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Lisage selle funktsiooni lubamiseks seadmesse Google\'i konto"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Sünkroonimine pole Google Apps for Businessi kontodega seadmetele saadaval"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Vaheta sisestusmeetodit"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Keelevahetuse võti hõlmab ka muid sisestusmeetodeid"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"Keelevahetuse nupp"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"Salvestamiseks puudutage siin"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"Sõnastik saadaval"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"Klaviatuuri teema"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"Konto vahetamine"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"Ühtegi kontot pole valitud"</string>
-    <string name="account_selected" msgid="2929764293361296224">"Praegu kasutatakse e-posti aadressi <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"OK"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"Tühista"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"Logi välja"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"Kasutatava konto valimine"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"Inglise (UK)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"Inglise (USA)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"hispaania (USA)"</string>

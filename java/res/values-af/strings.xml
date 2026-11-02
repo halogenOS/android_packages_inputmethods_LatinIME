@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"Klank met sleuteldruk"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"Opspring met sleuteldruk"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"Voorkeure"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"Rekeninge en privaatheid"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"Voorkoms en uitlegte"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"Gebaarinvoer"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"Tekskorrigering"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"Gevorderd"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"Tema"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"Aktiveer verdeelde sleutelbord"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"Google-sleutelbordsinkronisering"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"Sinkronisering is aangeskakel"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"Sinkroniseer jou persoonlike woordeboek oor toestelle heen"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"Sinkroniseer nou"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"Vee wolkdata uit"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"Vee jou gesinkroniseerde data van Google af uit"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"Jou gesinkroniseerde data sal uit die wolk uitgevee word. Seker?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"Vee uit"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"Kanselleer"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"Jou persoonlike woordeboek sal gesinkroniseer en in Google-bedieners gerugsteun word. Die statistiese inligting van woordfrekwensie sal dalk ingesamel word om ons produkte te help verbeter. Die insameling en gebruik van al die inligting sal voldoen aan "<a href="https://www.google.com/policies/privacy">"Google se privaatheidsbeleid"</a>"."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"Voeg \'n Google-rekening by die toestel om hierdie kenmerk te aktiveer"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"Toestelle met Google Apps vir Besigheid-rekeninge kan nie sinkroniseer nie"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"Skakel oor na die ander invoermetodes"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"Taal-wisselsleutel dek ook ander invoermetodes"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"Taal-wisselsleutel"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"Tik hier om te stoor"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"Woordeboek beskikbaar"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"Sleutelbordtema"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"Wissel rekeninge"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"Geen rekeninge gekies nie"</string>
-    <string name="account_selected" msgid="2929764293361296224">"Gebruik tans <xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"OK"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"Kanselleer"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"Meld af"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"Kies \'n rekening om te gebruik"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"Engels (VK)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"Engels (VS)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"Spaans (VS)"</string>

@@ -27,25 +27,12 @@
     <string name="sound_on_keypress" msgid="961585885443836044">"צלילים בעת לחיצה על מקשים"</string>
     <string name="popup_on_keypress" msgid="8957173605079893697">"חלון קופץ בלחיצה על מקש"</string>
     <string name="settings_screen_preferences" msgid="2651344303433215540">"העדפות"</string>
-    <string name="settings_screen_accounts" msgid="6532292577269658674">"חשבונות ופרטיות"</string>
     <string name="settings_screen_appearance" msgid="5433429477750100471">"מראה ופריסות"</string>
     <string name="settings_screen_gesture" msgid="6549199069124022556">"הקלדה רציפה"</string>
     <string name="settings_screen_correction" msgid="5457740749558200546">"תיקון טקסט"</string>
     <string name="settings_screen_advanced" msgid="2905347720063899478">"אפשרויות מתקדמות"</string>
     <string name="settings_screen_theme" msgid="6744206826660778092">"עיצוב"</string>
     <string name="enable_split_keyboard" msgid="7299522384075400050">"הפעל מקלדת מפוצלת"</string>
-    <string name="cloud_sync_title" msgid="2648120016215337960">"‏סנכרון מקלדת Google"</string>
-    <string name="cloud_sync_summary" msgid="457868413134165923">"הסנכרון פועל"</string>
-    <string name="cloud_sync_summary_disabled" msgid="3437796499578155725">"סנכרן את המילון האישי בין מכשירים"</string>
-    <string name="sync_now_title" msgid="8083126086065968727">"סנכרן עכשיו"</string>
-    <string name="clear_sync_data_title" msgid="2871211805506563252">"מחק נתונים בענן"</string>
-    <string name="clear_sync_data_summary" msgid="2737229599235212381">"‏מוחק את הנתונים המסונכרנים שלך מ-Google"</string>
-    <string name="clear_sync_data_confirmation" msgid="6815059501949766995">"הנתונים המסונכרנים שלך יימחקו מהענן. להמשיך?"</string>
-    <string name="clear_sync_data_ok" msgid="1809712111627111859">"מחק"</string>
-    <string name="cloud_sync_cancel" msgid="3437544314029636750">"ביטול"</string>
-    <string name="cloud_sync_opt_in_text" msgid="5443081647469720267">"‏המילון האישי שלך יסונכרן ויגובה בשרתי Google. ייתכן שהמידע הסטטיסטי לגבי תדירות מילים ייאסף כדי לעזור בשיפור המוצרים שלנו. איסוף המידע והשימוש בו ייעשו בהתאם ל"<a href="https://www.google.com/policies/privacy">"מדיניות הפרטיות של Google"</a>"."</string>
-    <string name="add_account_to_enable_sync" msgid="1657487000451860348">"‏הוסף חשבון Google במכשיר הזה כדי להפעיל את התכונה הזו"</string>
-    <string name="cloud_sync_summary_disabled_work_profile" msgid="4209488085168720952">"‏סנכרון אינו זמין במכשירים עם חשבונות Google Apps for Business"</string>
     <string name="include_other_imes_in_language_switch_list" msgid="2523063290372613355">"עבור לשיטות קלט אחרות"</string>
     <string name="include_other_imes_in_language_switch_list_summary" msgid="478140358131075690">"מתג החלפת השפה מכסה גם שיטות קלט אחרות"</string>
     <string name="show_language_switch_key" msgid="8756330695904259459">"מתג החלפת שפה"</string>
@@ -95,13 +82,6 @@
     <string name="hint_add_to_dictionary_without_word" msgid="899422279733408687">"הקש כאן כדי לשמור"</string>
     <string name="has_dictionary" msgid="1325233223608273869">"מילון זמין"</string>
     <string name="keyboard_layout" msgid="1709024226955326813">"עיצוב מקלדת"</string>
-    <string name="switch_accounts" msgid="1213242182459397913">"החלף חשבונות"</string>
-    <string name="no_accounts_selected" msgid="5770301395973322552">"לא נבחרו חשבונות"</string>
-    <string name="account_selected" msgid="2929764293361296224">"משתמש כרגע ב-<xliff:g id="EMAIL_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="account_select_ok" msgid="2319402914890345072">"אישור"</string>
-    <string name="account_select_cancel" msgid="8877103220502603643">"ביטול"</string>
-    <string name="account_select_sign_out" msgid="9208156165797411519">"צא"</string>
-    <string name="account_select_title" msgid="5355659391942386459">"בחר באיזה חשבון להשתמש"</string>
     <string name="subtype_en_GB" msgid="7923165641611861624">"אנגלית (בריטניה)"</string>
     <string name="subtype_en_US" msgid="5477258985573018813">"אנגלית (ארה\"ב)"</string>
     <string name="subtype_es_US" msgid="3224986579031001684">"ספרדית (ארצות הברית)"</string>
